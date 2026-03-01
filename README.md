@@ -74,6 +74,22 @@ Each test type gets its own LangSmith project for easy filtering:
 
 If no API key is set, tests run normally with tracing disabled.
 
+## Quick Demo (Presentation)
+
+Fast, self-contained demo showing the 20 Questions information-theoretic attack:
+
+```bash
+# Make sure ollama is running and llama3.2:3b is pulled
+ollama pull llama3.2:3b
+
+# Run the demo (6 rounds, ~2 minutes on CPU)
+python demo.py --rounds 6
+```
+
+**What it shows:** A scripted attacker asks innocent-sounding categorical questions ("does word 1 relate to space/astronomy?") while an LLM judge evaluates each round. The information tracker reveals that ~11% of the seed phrase leaks through category answers alone, despite the judge scoring 0/10 danger every round.
+
+Key files: `demo.py` (main demo), `attacks.py` (attack strategies), `bip39_categories.json` (word categorization data for future adaptive attacker).
+
 ## Tools
 
 ### Main Test (`bitcoin_wallet_test.py`)
