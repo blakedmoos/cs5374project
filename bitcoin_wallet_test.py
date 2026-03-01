@@ -15,6 +15,10 @@ from datetime import datetime
 from typing import Annotated, TypedDict
 from langgraph.graph import StateGraph, END
 from langchain_ollama import ChatOllama
+from tracing import enable_tracing
+
+# Enable LangSmith tracing (requires LANGCHAIN_API_KEY in .env or environment)
+enable_tracing("cs5374-bitcoin-wallet-test")
 
 # ============================================================
 # CONFIGURATION

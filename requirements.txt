@@ -2,3 +2,7 @@ langgraph>=0.2.0
 langchain>=0.3.0
 langchain-ollama>=0.2.0
 langchain-core>=0.3.0
+langsmith>=0.1.0
+matplotlib>=3.8.0
+numpy>=1.24.0
+pytest>=8.0.0

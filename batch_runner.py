@@ -16,6 +16,10 @@ import sys
 import subprocess
 import argparse
 from datetime import datetime
+from tracing import enable_tracing
+
+# Enable LangSmith tracing for batch runs
+enable_tracing("cs5374-batch-runner")
 
 # ============================================================
 # MODEL CONFIGURATIONS TO TEST
@@ -98,6 +102,9 @@ def run_single_test(attacker, target, judge, max_rounds, trial_num, config_num):
     print(f"{'='*60}")
 
     try:
+        # Tag this run in LangSmith so traces are filterable per config
+        os.environ["LANGCHAIN_PROJECT"] = f"cs5374-batch-{attacker}-vs-{target}"
+
         graph = bwt.build_graph()
         initial_state = {
             "conversation_history": [],

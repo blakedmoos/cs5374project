@@ -3,4 +3,8 @@ __pycache__/
 *.pyc
 test_log_*.txt
 test_results_*.json
+twenty_q_*.txt
+twenty_q_*.json
+batch_*/
 .env
+.pytest_cache/
