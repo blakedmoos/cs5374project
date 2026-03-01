@@ -1,0 +1,8300 @@
+{
+  "abandon": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "ability": [
+    "positive"
+  ],
+  "able": [
+    "action"
+  ],
+  "about": [
+    "descriptor"
+  ],
+  "above": [
+    "descriptor"
+  ],
+  "absent": [
+    "negative"
+  ],
+  "absorb": [
+    "action"
+  ],
+  "abstract": [
+    "descriptor"
+  ],
+  "absurd": [
+    "negative",
+    "descriptor"
+  ],
+  "abuse": [
+    "negative"
+  ],
+  "access": [
+    "action"
+  ],
+  "accident": [
+    "negative"
+  ],
+  "account": [
+    "person_role"
+  ],
+  "accuse": [
+    "negative"
+  ],
+  "achieve": [
+    "positive",
+    "action"
+  ],
+  "acid": [
+    "negative"
+  ],
+  "acoustic": [
+    "descriptor"
+  ],
+  "acquire": [
+    "action"
+  ],
+  "across": [
+    "action"
+  ],
+  "act": [
+    "action"
+  ],
+  "action": [
+    "action"
+  ],
+  "actor": [
+    "person_role"
+  ],
+  "actress": [
+    "person_role"
+  ],
+  "actual": [
+    "action",
+    "descriptor"
+  ],
+  "adapt": [
+    "action"
+  ],
+  "add": [
+    "action"
+  ],
+  "addict": [
+    "abstract"
+  ],
+  "address": [
+    "abstract"
+  ],
+  "adjust": [
+    "action"
+  ],
+  "admit": [
+    "action"
+  ],
+  "adult": [
+    "person_role"
+  ],
+  "advance": [
+    "action"
+  ],
+  "advice": [
+    "abstract"
+  ],
+  "aerobic": [
+    "descriptor"
+  ],
+  "affair": [
+    "abstract"
+  ],
+  "afford": [
+    "action"
+  ],
+  "afraid": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "again": [
+    "abstract"
+  ],
+  "age": [
+    "abstract"
+  ],
+  "agent": [
+    "person_role"
+  ],
+  "agree": [
+    "action"
+  ],
+  "ahead": [
+    "abstract"
+  ],
+  "aim": [
+    "action"
+  ],
+  "air": [
+    "weather_element"
+  ],
+  "airport": [
+    "place"
+  ],
+  "aisle": [
+    "abstract"
+  ],
+  "alarm": [
+    "abstract"
+  ],
+  "album": [
+    "abstract"
+  ],
+  "alcohol": [
+    "abstract"
+  ],
+  "alert": [
+    "abstract"
+  ],
+  "alien": [
+    "space"
+  ],
+  "all": [
+    "abstract"
+  ],
+  "alley": [
+    "place"
+  ],
+  "allow": [
+    "action"
+  ],
+  "almost": [
+    "descriptor"
+  ],
+  "alone": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "alpha": [
+    "abstract"
+  ],
+  "already": [
+    "descriptor"
+  ],
+  "also": [
+    "descriptor"
+  ],
+  "alter": [
+    "action"
+  ],
+  "always": [
+    "descriptor"
+  ],
+  "amateur": [
+    "descriptor"
+  ],
+  "amazing": [
+    "descriptor"
+  ],
+  "among": [
+    "descriptor"
+  ],
+  "amount": [
+    "descriptor"
+  ],
+  "amused": [
+    "emotion_feeling"
+  ],
+  "analyst": [
+    "person_role"
+  ],
+  "anchor": [
+    "tool_object",
+    "holdable"
+  ],
+  "ancient": [
+    "descriptor"
+  ],
+  "anger": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "angle": [
+    "abstract"
+  ],
+  "angry": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "animal": [
+    "abstract"
+  ],
+  "ankle": [
+    "body_part"
+  ],
+  "announce": [
+    "action"
+  ],
+  "annual": [
+    "descriptor"
+  ],
+  "another": [
+    "descriptor"
+  ],
+  "answer": [
+    "abstract"
+  ],
+  "antenna": [
+    "abstract"
+  ],
+  "antique": [
+    "abstract"
+  ],
+  "anxiety": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "any": [
+    "descriptor"
+  ],
+  "apart": [
+    "descriptor"
+  ],
+  "apology": [
+    "abstract"
+  ],
+  "appear": [
+    "action"
+  ],
+  "apple": [
+    "nature_plant",
+    "food_drink",
+    "holdable"
+  ],
+  "approve": [
+    "action"
+  ],
+  "april": [
+    "abstract"
+  ],
+  "arch": [
+    "abstract"
+  ],
+  "arctic": [
+    "weather_element",
+    "place"
+  ],
+  "area": [
+    "place"
+  ],
+  "arena": [
+    "place"
+  ],
+  "argue": [
+    "negative",
+    "action"
+  ],
+  "arm": [
+    "body_part"
+  ],
+  "armed": [
+    "abstract"
+  ],
+  "armor": [
+    "tool_object"
+  ],
+  "army": [
+    "abstract"
+  ],
+  "around": [
+    "abstract"
+  ],
+  "arrange": [
+    "action"
+  ],
+  "arrest": [
+    "negative",
+    "action"
+  ],
+  "arrive": [
+    "action"
+  ],
+  "arrow": [
+    "tool_object",
+    "holdable"
+  ],
+  "art": [
+    "abstract"
+  ],
+  "artefact": [
+    "abstract"
+  ],
+  "artist": [
+    "person_role"
+  ],
+  "artwork": [
+    "abstract"
+  ],
+  "ask": [
+    "action"
+  ],
+  "aspect": [
+    "abstract"
+  ],
+  "assault": [
+    "negative"
+  ],
+  "asset": [
+    "abstract"
+  ],
+  "assist": [
+    "action"
+  ],
+  "assume": [
+    "action"
+  ],
+  "asthma": [
+    "abstract"
+  ],
+  "athlete": [
+    "person_role"
+  ],
+  "atom": [
+    "space"
+  ],
+  "attack": [
+    "negative"
+  ],
+  "attend": [
+    "action"
+  ],
+  "attitude": [
+    "abstract"
+  ],
+  "attract": [
+    "action"
+  ],
+  "auction": [
+    "action"
+  ],
+  "audit": [
+    "abstract"
+  ],
+  "august": [
+    "abstract"
+  ],
+  "aunt": [
+    "person_role"
+  ],
+  "author": [
+    "person_role"
+  ],
+  "auto": [
+    "abstract"
+  ],
+  "autumn": [
+    "weather_element"
+  ],
+  "average": [
+    "abstract"
+  ],
+  "avocado": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "avoid": [
+    "action"
+  ],
+  "awake": [
+    "action"
+  ],
+  "aware": [
+    "descriptor"
+  ],
+  "away": [
+    "abstract"
+  ],
+  "awesome": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "awful": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "awkward": [
+    "negative",
+    "descriptor"
+  ],
+  "axis": [
+    "abstract"
+  ],
+  "baby": [
+    "abstract"
+  ],
+  "bachelor": [
+    "person_role"
+  ],
+  "bacon": [
+    "animal",
+    "food_drink"
+  ],
+  "badge": [
+    "tool_object",
+    "holdable"
+  ],
+  "bag": [
+    "tool_object",
+    "holdable"
+  ],
+  "balance": [
+    "positive",
+    "action"
+  ],
+  "balcony": [
+    "abstract"
+  ],
+  "ball": [
+    "tool_object",
+    "holdable"
+  ],
+  "bamboo": [
+    "nature_plant"
+  ],
+  "banana": [
+    "nature_plant",
+    "food_drink",
+    "holdable"
+  ],
+  "banner": [
+    "tool_object"
+  ],
+  "bar": [
+    "tool_object",
+    "place",
+    "holdable"
+  ],
+  "barely": [
+    "action",
+    "descriptor"
+  ],
+  "bargain": [
+    "abstract"
+  ],
+  "barrel": [
+    "tool_object",
+    "holdable"
+  ],
+  "base": [
+    "place"
+  ],
+  "basic": [
+    "descriptor"
+  ],
+  "basket": [
+    "tool_object",
+    "holdable"
+  ],
+  "battle": [
+    "action"
+  ],
+  "beach": [
+    "weather_element",
+    "place"
+  ],
+  "bean": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "beauty": [
+    "positive"
+  ],
+  "because": [
+    "abstract"
+  ],
+  "become": [
+    "action"
+  ],
+  "beef": [
+    "food_drink"
+  ],
+  "before": [
+    "abstract"
+  ],
+  "begin": [
+    "action"
+  ],
+  "behave": [
+    "action"
+  ],
+  "behind": [
+    "abstract"
+  ],
+  "believe": [
+    "action"
+  ],
+  "below": [
+    "descriptor"
+  ],
+  "belt": [
+    "tool_object",
+    "holdable"
+  ],
+  "bench": [
+    "tool_object"
+  ],
+  "benefit": [
+    "positive"
+  ],
+  "best": [
+    "positive",
+    "descriptor"
+  ],
+  "betray": [
+    "negative",
+    "action"
+  ],
+  "better": [
+    "positive",
+    "descriptor"
+  ],
+  "between": [
+    "descriptor"
+  ],
+  "beyond": [
+    "descriptor"
+  ],
+  "bicycle": [
+    "abstract"
+  ],
+  "bid": [
+    "action"
+  ],
+  "bike": [
+    "abstract"
+  ],
+  "bind": [
+    "action"
+  ],
+  "biology": [
+    "abstract"
+  ],
+  "bird": [
+    "animal"
+  ],
+  "birth": [
+    "abstract"
+  ],
+  "bitter": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "black": [
+    "descriptor"
+  ],
+  "blade": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "blame": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "blanket": [
+    "tool_object",
+    "holdable"
+  ],
+  "blast": [
+    "action"
+  ],
+  "bleak": [
+    "negative",
+    "descriptor"
+  ],
+  "bless": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "blind": [
+    "negative",
+    "descriptor"
+  ],
+  "blood": [
+    "body_part",
+    "negative"
+  ],
+  "blossom": [
+    "nature_plant"
+  ],
+  "blouse": [
+    "abstract"
+  ],
+  "blue": [
+    "descriptor"
+  ],
+  "blur": [
+    "abstract"
+  ],
+  "blush": [
+    "emotion_feeling"
+  ],
+  "board": [
+    "tool_object",
+    "action"
+  ],
+  "boat": [
+    "abstract"
+  ],
+  "body": [
+    "abstract"
+  ],
+  "boil": [
+    "action"
+  ],
+  "bomb": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "bone": [
+    "body_part",
+    "holdable"
+  ],
+  "bonus": [
+    "abstract"
+  ],
+  "book": [
+    "tool_object",
+    "holdable"
+  ],
+  "boost": [
+    "action"
+  ],
+  "border": [
+    "place"
+  ],
+  "boring": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "borrow": [
+    "action"
+  ],
+  "boss": [
+    "person_role"
+  ],
+  "bottom": [
+    "abstract"
+  ],
+  "bounce": [
+    "action"
+  ],
+  "box": [
+    "tool_object",
+    "holdable"
+  ],
+  "boy": [
+    "person_role"
+  ],
+  "bracket": [
+    "tool_object"
+  ],
+  "brain": [
+    "body_part"
+  ],
+  "brand": [
+    "abstract"
+  ],
+  "brass": [
+    "abstract"
+  ],
+  "brave": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "bread": [
+    "food_drink"
+  ],
+  "breeze": [
+    "weather_element"
+  ],
+  "brick": [
+    "tool_object",
+    "holdable"
+  ],
+  "bridge": [
+    "tool_object"
+  ],
+  "brief": [
+    "descriptor"
+  ],
+  "bright": [
+    "weather_element",
+    "positive",
+    "descriptor"
+  ],
+  "bring": [
+    "action"
+  ],
+  "brisk": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "broccoli": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "broken": [
+    "negative",
+    "descriptor"
+  ],
+  "bronze": [
+    "abstract"
+  ],
+  "broom": [
+    "tool_object",
+    "holdable"
+  ],
+  "brother": [
+    "person_role"
+  ],
+  "brown": [
+    "descriptor"
+  ],
+  "brush": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "bubble": [
+    "action"
+  ],
+  "buddy": [
+    "person_role"
+  ],
+  "budget": [
+    "abstract"
+  ],
+  "buffalo": [
+    "animal"
+  ],
+  "build": [
+    "action"
+  ],
+  "bulb": [
+    "abstract"
+  ],
+  "bulk": [
+    "descriptor"
+  ],
+  "bullet": [
+    "tool_object",
+    "holdable"
+  ],
+  "bundle": [
+    "abstract"
+  ],
+  "bunker": [
+    "tool_object"
+  ],
+  "burden": [
+    "negative"
+  ],
+  "burger": [
+    "food_drink"
+  ],
+  "burst": [
+    "action"
+  ],
+  "bus": [
+    "abstract"
+  ],
+  "business": [
+    "abstract"
+  ],
+  "busy": [
+    "negative",
+    "descriptor"
+  ],
+  "butter": [
+    "food_drink"
+  ],
+  "buyer": [
+    "person_role"
+  ],
+  "buzz": [
+    "abstract"
+  ],
+  "cabbage": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "cabin": [
+    "place"
+  ],
+  "cable": [
+    "tool_object",
+    "holdable"
+  ],
+  "cactus": [
+    "nature_plant"
+  ],
+  "cage": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "cake": [
+    "food_drink",
+    "holdable"
+  ],
+  "call": [
+    "action"
+  ],
+  "calm": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "camera": [
+    "tool_object",
+    "holdable"
+  ],
+  "camp": [
+    "place"
+  ],
+  "can": [
+    "tool_object",
+    "holdable"
+  ],
+  "canal": [
+    "place"
+  ],
+  "cancel": [
+    "negative",
+    "action"
+  ],
+  "candy": [
+    "food_drink"
+  ],
+  "cannon": [
+    "tool_object",
+    "holdable"
+  ],
+  "canoe": [
+    "animal"
+  ],
+  "canvas": [
+    "tool_object",
+    "holdable"
+  ],
+  "canyon": [
+    "place"
+  ],
+  "capable": [
+    "positive",
+    "descriptor"
+  ],
+  "capital": [
+    "place",
+    "descriptor"
+  ],
+  "captain": [
+    "person_role"
+  ],
+  "car": [
+    "tool_object"
+  ],
+  "carbon": [
+    "abstract"
+  ],
+  "card": [
+    "tool_object",
+    "holdable"
+  ],
+  "cargo": [
+    "abstract"
+  ],
+  "carpet": [
+    "tool_object",
+    "holdable"
+  ],
+  "carry": [
+    "action"
+  ],
+  "cart": [
+    "tool_object"
+  ],
+  "case": [
+    "tool_object",
+    "holdable"
+  ],
+  "cash": [
+    "abstract"
+  ],
+  "casino": [
+    "place"
+  ],
+  "castle": [
+    "tool_object",
+    "place"
+  ],
+  "casual": [
+    "descriptor"
+  ],
+  "cat": [
+    "animal"
+  ],
+  "catalog": [
+    "abstract"
+  ],
+  "catch": [
+    "action"
+  ],
+  "category": [
+    "abstract"
+  ],
+  "cattle": [
+    "animal"
+  ],
+  "caught": [
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "cause": [
+    "action"
+  ],
+  "caution": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "cave": [
+    "place"
+  ],
+  "ceiling": [
+    "tool_object",
+    "place"
+  ],
+  "celery": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "cement": [
+    "tool_object"
+  ],
+  "census": [
+    "abstract"
+  ],
+  "century": [
+    "abstract"
+  ],
+  "cereal": [
+    "food_drink"
+  ],
+  "certain": [
+    "positive",
+    "descriptor"
+  ],
+  "chair": [
+    "tool_object",
+    "holdable"
+  ],
+  "chalk": [
+    "tool_object",
+    "holdable"
+  ],
+  "champion": [
+    "positive"
+  ],
+  "change": [
+    "positive",
+    "action"
+  ],
+  "chaos": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "chapter": [
+    "abstract"
+  ],
+  "charge": [
+    "action"
+  ],
+  "chase": [
+    "action"
+  ],
+  "chat": [
+    "action"
+  ],
+  "cheap": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "check": [
+    "action"
+  ],
+  "cheese": [
+    "food_drink"
+  ],
+  "chef": [
+    "person_role"
+  ],
+  "cherry": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "chest": [
+    "body_part"
+  ],
+  "chicken": [
+    "animal",
+    "food_drink"
+  ],
+  "chief": [
+    "person_role",
+    "descriptor"
+  ],
+  "child": [
+    "person_role"
+  ],
+  "chimney": [
+    "abstract"
+  ],
+  "choice": [
+    "abstract"
+  ],
+  "choose": [
+    "action"
+  ],
+  "chronic": [
+    "negative",
+    "descriptor"
+  ],
+  "chuckle": [
+    "emotion_feeling",
+    "action"
+  ],
+  "chunk": [
+    "abstract"
+  ],
+  "churn": [
+    "action"
+  ],
+  "cigar": [
+    "tool_object",
+    "holdable"
+  ],
+  "cinnamon": [
+    "food_drink"
+  ],
+  "circle": [
+    "tool_object",
+    "action"
+  ],
+  "citizen": [
+    "person_role"
+  ],
+  "city": [
+    "place"
+  ],
+  "civil": [
+    "place",
+    "descriptor"
+  ],
+  "claim": [
+    "action"
+  ],
+  "clap": [
+    "action"
+  ],
+  "clarify": [
+    "action"
+  ],
+  "claw": [
+    "animal"
+  ],
+  "clay": [
+    "tool_object",
+    "holdable"
+  ],
+  "clean": [
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "clerk": [
+    "person_role"
+  ],
+  "clever": [
+    "positive",
+    "descriptor"
+  ],
+  "click": [
+    "tool_object",
+    "action"
+  ],
+  "client": [
+    "person_role"
+  ],
+  "cliff": [
+    "place"
+  ],
+  "climb": [
+    "action"
+  ],
+  "clinic": [
+    "place"
+  ],
+  "clip": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "clock": [
+    "tool_object",
+    "holdable"
+  ],
+  "clog": [
+    "abstract"
+  ],
+  "close": [
+    "action",
+    "descriptor"
+  ],
+  "cloth": [
+    "tool_object",
+    "holdable"
+  ],
+  "cloud": [
+    "weather_element"
+  ],
+  "clown": [
+    "abstract"
+  ],
+  "club": [
+    "tool_object",
+    "holdable"
+  ],
+  "clump": [
+    "abstract"
+  ],
+  "cluster": [
+    "abstract"
+  ],
+  "clutch": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "coach": [
+    "tool_object",
+    "person_role"
+  ],
+  "coast": [
+    "place"
+  ],
+  "coconut": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "code": [
+    "tool_object",
+    "holdable"
+  ],
+  "coffee": [
+    "food_drink"
+  ],
+  "coil": [
+    "tool_object",
+    "holdable"
+  ],
+  "coin": [
+    "tool_object",
+    "holdable"
+  ],
+  "collect": [
+    "action"
+  ],
+  "color": [
+    "abstract"
+  ],
+  "column": [
+    "tool_object"
+  ],
+  "combine": [
+    "action"
+  ],
+  "come": [
+    "action"
+  ],
+  "comfort": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "comic": [
+    "abstract"
+  ],
+  "common": [
+    "descriptor"
+  ],
+  "company": [
+    "descriptor"
+  ],
+  "concert": [
+    "abstract"
+  ],
+  "conduct": [
+    "action"
+  ],
+  "confirm": [
+    "action"
+  ],
+  "congress": [
+    "person_role",
+    "descriptor"
+  ],
+  "connect": [
+    "action"
+  ],
+  "consider": [
+    "action",
+    "descriptor"
+  ],
+  "control": [
+    "action",
+    "descriptor"
+  ],
+  "convince": [
+    "action",
+    "descriptor"
+  ],
+  "cook": [
+    "person_role",
+    "action"
+  ],
+  "cool": [
+    "weather_element",
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "copper": [
+    "abstract"
+  ],
+  "copy": [
+    "action"
+  ],
+  "coral": [
+    "holdable"
+  ],
+  "core": [
+    "holdable"
+  ],
+  "corn": [
+    "nature_plant",
+    "food_drink",
+    "holdable"
+  ],
+  "correct": [
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "cost": [
+    "abstract"
+  ],
+  "cotton": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "couch": [
+    "tool_object",
+    "holdable"
+  ],
+  "country": [
+    "place"
+  ],
+  "couple": [
+    "person_role"
+  ],
+  "course": [
+    "abstract"
+  ],
+  "cousin": [
+    "person_role"
+  ],
+  "cover": [
+    "action"
+  ],
+  "coyote": [
+    "animal"
+  ],
+  "crack": [
+    "negative",
+    "action"
+  ],
+  "cradle": [
+    "tool_object",
+    "holdable"
+  ],
+  "craft": [
+    "abstract"
+  ],
+  "cram": [
+    "action"
+  ],
+  "crane": [
+    "tool_object",
+    "holdable"
+  ],
+  "crash": [
+    "negative",
+    "action"
+  ],
+  "crater": [
+    "abstract"
+  ],
+  "crawl": [
+    "action"
+  ],
+  "crazy": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "cream": [
+    "food_drink"
+  ],
+  "credit": [
+    "abstract"
+  ],
+  "creek": [
+    "place"
+  ],
+  "crew": [
+    "person_role"
+  ],
+  "cricket": [
+    "animal"
+  ],
+  "crime": [
+    "negative"
+  ],
+  "crisp": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "critic": [
+    "person_role",
+    "negative"
+  ],
+  "crop": [
+    "action"
+  ],
+  "cross": [
+    "action"
+  ],
+  "crouch": [
+    "animal",
+    "action"
+  ],
+  "crowd": [
+    "negative"
+  ],
+  "crucial": [
+    "descriptor"
+  ],
+  "cruel": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "cruise": [
+    "abstract"
+  ],
+  "crumble": [
+    "negative",
+    "action"
+  ],
+  "crunch": [
+    "negative",
+    "action"
+  ],
+  "crush": [
+    "negative",
+    "action"
+  ],
+  "cry": [
+    "negative",
+    "action"
+  ],
+  "crystal": [
+    "holdable"
+  ],
+  "cube": [
+    "holdable"
+  ],
+  "culture": [
+    "abstract"
+  ],
+  "cup": [
+    "tool_object",
+    "holdable"
+  ],
+  "cupboard": [
+    "tool_object",
+    "holdable"
+  ],
+  "curious": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "current": [
+    "descriptor"
+  ],
+  "curtain": [
+    "tool_object",
+    "holdable"
+  ],
+  "curve": [
+    "abstract"
+  ],
+  "cushion": [
+    "tool_object",
+    "holdable"
+  ],
+  "custom": [
+    "descriptor"
+  ],
+  "cute": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "cycle": [
+    "tool_object",
+    "action"
+  ],
+  "dad": [
+    "person_role"
+  ],
+  "damage": [
+    "negative"
+  ],
+  "damp": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "dance": [
+    "action"
+  ],
+  "danger": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "daring": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "dash": [
+    "abstract"
+  ],
+  "daughter": [
+    "person_role"
+  ],
+  "dawn": [
+    "weather_element"
+  ],
+  "day": [
+    "weather_element"
+  ],
+  "deal": [
+    "action"
+  ],
+  "debate": [
+    "action"
+  ],
+  "debris": [
+    "negative"
+  ],
+  "decade": [
+    "negative"
+  ],
+  "december": [
+    "abstract"
+  ],
+  "decide": [
+    "action"
+  ],
+  "decline": [
+    "negative",
+    "action"
+  ],
+  "decorate": [
+    "action"
+  ],
+  "decrease": [
+    "negative",
+    "action"
+  ],
+  "deer": [
+    "animal"
+  ],
+  "defense": [
+    "abstract"
+  ],
+  "define": [
+    "negative",
+    "action"
+  ],
+  "defy": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "degree": [
+    "abstract"
+  ],
+  "delay": [
+    "negative",
+    "action"
+  ],
+  "deliver": [
+    "action"
+  ],
+  "demand": [
+    "negative",
+    "action"
+  ],
+  "demise": [
+    "negative"
+  ],
+  "denial": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "dentist": [
+    "person_role"
+  ],
+  "deny": [
+    "negative",
+    "action"
+  ],
+  "depart": [
+    "negative",
+    "action"
+  ],
+  "depend": [
+    "negative",
+    "action"
+  ],
+  "deposit": [
+    "action"
+  ],
+  "depth": [
+    "abstract"
+  ],
+  "deputy": [
+    "person_role"
+  ],
+  "derive": [
+    "action"
+  ],
+  "describe": [
+    "action"
+  ],
+  "desert": [
+    "place",
+    "negative"
+  ],
+  "design": [
+    "action"
+  ],
+  "desk": [
+    "tool_object",
+    "holdable"
+  ],
+  "despair": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "destroy": [
+    "negative",
+    "action"
+  ],
+  "detail": [
+    "negative"
+  ],
+  "detect": [
+    "negative",
+    "action"
+  ],
+  "develop": [
+    "negative",
+    "action"
+  ],
+  "device": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "devote": [
+    "negative",
+    "action"
+  ],
+  "diagram": [
+    "tool_object",
+    "holdable"
+  ],
+  "dial": [
+    "tool_object",
+    "holdable"
+  ],
+  "diamond": [
+    "tool_object",
+    "holdable"
+  ],
+  "diary": [
+    "tool_object",
+    "holdable"
+  ],
+  "dice": [
+    "tool_object",
+    "holdable"
+  ],
+  "diesel": [
+    "abstract"
+  ],
+  "diet": [
+    "food_drink"
+  ],
+  "differ": [
+    "negative",
+    "action"
+  ],
+  "digital": [
+    "negative",
+    "descriptor"
+  ],
+  "dignity": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "dilemma": [
+    "negative"
+  ],
+  "dinner": [
+    "food_drink"
+  ],
+  "dinosaur": [
+    "animal"
+  ],
+  "direct": [
+    "action",
+    "descriptor"
+  ],
+  "dirt": [
+    "negative"
+  ],
+  "disagree": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "discover": [
+    "negative",
+    "action"
+  ],
+  "disease": [
+    "negative"
+  ],
+  "dish": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "dismiss": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "disorder": [
+    "negative"
+  ],
+  "display": [
+    "negative",
+    "action"
+  ],
+  "distance": [
+    "negative"
+  ],
+  "divert": [
+    "negative",
+    "action"
+  ],
+  "divide": [
+    "negative",
+    "action"
+  ],
+  "divorce": [
+    "negative"
+  ],
+  "dizzy": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "doctor": [
+    "person_role"
+  ],
+  "document": [
+    "abstract"
+  ],
+  "dog": [
+    "animal"
+  ],
+  "doll": [
+    "tool_object",
+    "holdable"
+  ],
+  "dolphin": [
+    "animal"
+  ],
+  "domain": [
+    "place"
+  ],
+  "donate": [
+    "action"
+  ],
+  "donkey": [
+    "animal"
+  ],
+  "donor": [
+    "person_role"
+  ],
+  "door": [
+    "tool_object",
+    "place"
+  ],
+  "dose": [
+    "tool_object",
+    "holdable"
+  ],
+  "double": [
+    "action",
+    "descriptor"
+  ],
+  "dove": [
+    "animal"
+  ],
+  "draft": [
+    "weather_element",
+    "negative",
+    "action"
+  ],
+  "dragon": [
+    "abstract"
+  ],
+  "drama": [
+    "emotion_feeling"
+  ],
+  "drastic": [
+    "negative",
+    "descriptor"
+  ],
+  "draw": [
+    "action"
+  ],
+  "dream": [
+    "emotion_feeling",
+    "action"
+  ],
+  "dress": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "drift": [
+    "negative",
+    "action"
+  ],
+  "drill": [
+    "tool_object",
+    "holdable"
+  ],
+  "drink": [
+    "action"
+  ],
+  "drip": [
+    "abstract"
+  ],
+  "drive": [
+    "action"
+  ],
+  "drop": [
+    "negative",
+    "action"
+  ],
+  "drum": [
+    "tool_object",
+    "holdable"
+  ],
+  "dry": [
+    "weather_element",
+    "descriptor"
+  ],
+  "duck": [
+    "animal"
+  ],
+  "dumb": [
+    "negative",
+    "descriptor"
+  ],
+  "dune": [
+    "abstract"
+  ],
+  "during": [
+    "negative",
+    "descriptor"
+  ],
+  "dust": [
+    "tool_object",
+    "weather_element",
+    "negative",
+    "holdable"
+  ],
+  "dutch": [
+    "descriptor"
+  ],
+  "duty": [
+    "negative"
+  ],
+  "dwarf": [
+    "negative"
+  ],
+  "dynamic": [
+    "negative",
+    "descriptor"
+  ],
+  "eager": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "eagle": [
+    "animal"
+  ],
+  "early": [
+    "descriptor"
+  ],
+  "earn": [
+    "action"
+  ],
+  "earth": [
+    "weather_element",
+    "place"
+  ],
+  "easily": [
+    "descriptor"
+  ],
+  "east": [
+    "weather_element",
+    "place"
+  ],
+  "easy": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "echo": [
+    "action",
+    "descriptor"
+  ],
+  "ecology": [
+    "abstract"
+  ],
+  "economy": [
+    "descriptor"
+  ],
+  "edge": [
+    "place",
+    "negative",
+    "descriptor"
+  ],
+  "edit": [
+    "action"
+  ],
+  "educate": [
+    "positive",
+    "action"
+  ],
+  "effort": [
+    "emotion_feeling",
+    "positive",
+    "negative"
+  ],
+  "egg": [
+    "animal",
+    "food_drink",
+    "holdable"
+  ],
+  "eight": [
+    "descriptor"
+  ],
+  "either": [
+    "negative",
+    "descriptor"
+  ],
+  "elbow": [
+    "body_part"
+  ],
+  "elder": [
+    "person_role"
+  ],
+  "electric": [
+    "descriptor"
+  ],
+  "elegant": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "element": [
+    "abstract"
+  ],
+  "elephant": [
+    "animal"
+  ],
+  "elevator": [
+    "tool_object"
+  ],
+  "elite": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "else": [
+    "negative",
+    "descriptor"
+  ],
+  "embark": [
+    "action"
+  ],
+  "embody": [
+    "action"
+  ],
+  "embrace": [
+    "positive",
+    "action"
+  ],
+  "emerge": [
+    "action"
+  ],
+  "emotion": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "employ": [
+    "person_role",
+    "action"
+  ],
+  "empower": [
+    "positive",
+    "action"
+  ],
+  "empty": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "enable": [
+    "positive",
+    "action"
+  ],
+  "enact": [
+    "action"
+  ],
+  "end": [
+    "negative"
+  ],
+  "endless": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "endorse": [
+    "negative",
+    "action"
+  ],
+  "enemy": [
+    "person_role",
+    "negative"
+  ],
+  "energy": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "enforce": [
+    "negative",
+    "action"
+  ],
+  "engage": [
+    "negative",
+    "action"
+  ],
+  "engine": [
+    "tool_object"
+  ],
+  "enhance": [
+    "action"
+  ],
+  "enjoy": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "enlist": [
+    "action"
+  ],
+  "enough": [
+    "negative",
+    "descriptor"
+  ],
+  "enrich": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "enroll": [
+    "negative",
+    "action"
+  ],
+  "ensure": [
+    "positive",
+    "action"
+  ],
+  "enter": [
+    "action"
+  ],
+  "entire": [
+    "place",
+    "negative",
+    "descriptor"
+  ],
+  "entry": [
+    "place",
+    "negative"
+  ],
+  "envelope": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "episode": [
+    "negative"
+  ],
+  "equal": [
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "equip": [
+    "negative",
+    "action"
+  ],
+  "era": [
+    "negative",
+    "descriptor"
+  ],
+  "erase": [
+    "negative",
+    "action"
+  ],
+  "erode": [
+    "negative",
+    "action"
+  ],
+  "erosion": [
+    "negative"
+  ],
+  "error": [
+    "negative"
+  ],
+  "erupt": [
+    "negative",
+    "action"
+  ],
+  "escape": [
+    "negative",
+    "action"
+  ],
+  "essay": [
+    "negative"
+  ],
+  "essence": [
+    "negative"
+  ],
+  "estate": [
+    "place",
+    "negative"
+  ],
+  "eternal": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "ethics": [
+    "positive"
+  ],
+  "evidence": [
+    "negative"
+  ],
+  "evil": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "evoke": [
+    "negative"
+  ],
+  "evolve": [
+    "negative",
+    "action"
+  ],
+  "exact": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "example": [
+    "positive",
+    "negative"
+  ],
+  "excess": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "exchange": [
+    "negative",
+    "action"
+  ],
+  "excite": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "exclude": [
+    "negative",
+    "action"
+  ],
+  "excuse": [
+    "negative",
+    "action"
+  ],
+  "execute": [
+    "negative",
+    "action"
+  ],
+  "exercise": [
+    "negative",
+    "action"
+  ],
+  "exhaust": [
+    "negative"
+  ],
+  "exhibit": [
+    "negative",
+    "action"
+  ],
+  "exile": [
+    "negative"
+  ],
+  "exist": [
+    "negative",
+    "action"
+  ],
+  "exit": [
+    "place",
+    "negative"
+  ],
+  "exotic": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "expand": [
+    "negative",
+    "action"
+  ],
+  "expect": [
+    "negative",
+    "action"
+  ],
+  "expire": [
+    "negative",
+    "action"
+  ],
+  "explain": [
+    "negative",
+    "action"
+  ],
+  "expose": [
+    "negative",
+    "action"
+  ],
+  "express": [
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "extend": [
+    "negative",
+    "action"
+  ],
+  "extra": [
+    "negative",
+    "descriptor"
+  ],
+  "eye": [
+    "body_part"
+  ],
+  "eyebrow": [
+    "body_part"
+  ],
+  "fabric": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "descriptor"
+  ],
+  "face": [
+    "body_part",
+    "action"
+  ],
+  "faculty": [
+    "person_role",
+    "descriptor"
+  ],
+  "fade": [
+    "negative",
+    "action"
+  ],
+  "faint": [
+    "negative",
+    "descriptor"
+  ],
+  "faith": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "fall": [
+    "negative",
+    "action"
+  ],
+  "false": [
+    "negative",
+    "descriptor"
+  ],
+  "fame": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "family": [
+    "person_role"
+  ],
+  "famous": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "fan": [
+    "tool_object",
+    "person_role",
+    "holdable"
+  ],
+  "fancy": [
+    "emotion_feeling",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "fantasy": [
+    "emotion_feeling"
+  ],
+  "farm": [
+    "nature_plant",
+    "place"
+  ],
+  "fashion": [
+    "action"
+  ],
+  "fat": [
+    "food_drink"
+  ],
+  "fatal": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "father": [
+    "person_role"
+  ],
+  "fatigue": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "fault": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "favorite": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "feature": [
+    "abstract"
+  ],
+  "february": [
+    "abstract"
+  ],
+  "federal": [
+    "descriptor"
+  ],
+  "fee": [
+    "abstract"
+  ],
+  "feed": [
+    "food_drink",
+    "action"
+  ],
+  "feel": [
+    "emotion_feeling",
+    "action"
+  ],
+  "female": [
+    "person_role",
+    "descriptor"
+  ],
+  "fence": [
+    "tool_object"
+  ],
+  "festival": [
+    "abstract"
+  ],
+  "fetch": [
+    "action"
+  ],
+  "fever": [
+    "negative"
+  ],
+  "few": [
+    "negative",
+    "descriptor"
+  ],
+  "fiber": [
+    "abstract"
+  ],
+  "fiction": [
+    "negative"
+  ],
+  "field": [
+    "nature_plant",
+    "place"
+  ],
+  "figure": [
+    "negative",
+    "action"
+  ],
+  "file": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "film": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "filter": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "final": [
+    "negative",
+    "descriptor"
+  ],
+  "find": [
+    "action"
+  ],
+  "fine": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "finger": [
+    "body_part"
+  ],
+  "finish": [
+    "action"
+  ],
+  "fire": [
+    "weather_element",
+    "negative",
+    "action"
+  ],
+  "firm": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "first": [
+    "positive",
+    "descriptor"
+  ],
+  "fiscal": [
+    "negative",
+    "descriptor"
+  ],
+  "fish": [
+    "animal"
+  ],
+  "fit": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "fitness": [
+    "abstract"
+  ],
+  "fix": [
+    "action"
+  ],
+  "flag": [
+    "tool_object",
+    "holdable"
+  ],
+  "flame": [
+    "tool_object",
+    "weather_element",
+    "holdable"
+  ],
+  "flash": [
+    "tool_object",
+    "weather_element",
+    "holdable"
+  ],
+  "flat": [
+    "tool_object",
+    "negative",
+    "descriptor"
+  ],
+  "flavor": [
+    "food_drink"
+  ],
+  "flee": [
+    "negative",
+    "action"
+  ],
+  "flight": [
+    "negative",
+    "action"
+  ],
+  "flip": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "float": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "flock": [
+    "animal",
+    "negative",
+    "action"
+  ],
+  "floor": [
+    "tool_object",
+    "place",
+    "negative"
+  ],
+  "flower": [
+    "nature_plant"
+  ],
+  "fluid": [
+    "abstract"
+  ],
+  "flush": [
+    "weather_element",
+    "negative",
+    "action"
+  ],
+  "fly": [
+    "animal",
+    "action"
+  ],
+  "foam": [
+    "tool_object",
+    "weather_element",
+    "holdable"
+  ],
+  "focus": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "fog": [
+    "weather_element",
+    "negative"
+  ],
+  "foil": [
+    "tool_object",
+    "holdable"
+  ],
+  "fold": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "follow": [
+    "negative",
+    "action"
+  ],
+  "food": [
+    "food_drink",
+    "holdable"
+  ],
+  "foot": [
+    "body_part"
+  ],
+  "force": [
+    "negative",
+    "action"
+  ],
+  "forest": [
+    "nature_plant",
+    "place"
+  ],
+  "forget": [
+    "negative",
+    "action"
+  ],
+  "fork": [
+    "tool_object",
+    "holdable"
+  ],
+  "fortune": [
+    "negative"
+  ],
+  "forum": [
+    "place"
+  ],
+  "forward": [
+    "action",
+    "descriptor"
+  ],
+  "fossil": [
+    "negative",
+    "descriptor"
+  ],
+  "foster": [
+    "action"
+  ],
+  "found": [
+    "negative",
+    "action"
+  ],
+  "fox": [
+    "animal"
+  ],
+  "fragile": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "frame": [
+    "tool_object",
+    "holdable"
+  ],
+  "frequent": [
+    "negative",
+    "descriptor"
+  ],
+  "fresh": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "friend": [
+    "emotion_feeling",
+    "person_role",
+    "positive"
+  ],
+  "fringe": [
+    "negative"
+  ],
+  "frog": [
+    "animal"
+  ],
+  "front": [
+    "place"
+  ],
+  "frost": [
+    "weather_element",
+    "negative"
+  ],
+  "frown": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "frozen": [
+    "weather_element",
+    "negative",
+    "descriptor"
+  ],
+  "fruit": [
+    "nature_plant",
+    "food_drink",
+    "holdable"
+  ],
+  "fuel": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "fun": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "funny": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "furnace": [
+    "tool_object"
+  ],
+  "fury": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "future": [
+    "descriptor"
+  ],
+  "gadget": [
+    "tool_object",
+    "holdable"
+  ],
+  "gain": [
+    "action"
+  ],
+  "galaxy": [
+    "space",
+    "place"
+  ],
+  "gallery": [
+    "abstract"
+  ],
+  "game": [
+    "abstract"
+  ],
+  "gap": [
+    "place"
+  ],
+  "garage": [
+    "tool_object",
+    "place"
+  ],
+  "garbage": [
+    "negative"
+  ],
+  "garden": [
+    "nature_plant",
+    "place"
+  ],
+  "garlic": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "garment": [
+    "abstract"
+  ],
+  "gas": [
+    "tool_object",
+    "holdable"
+  ],
+  "gasp": [
+    "negative",
+    "action"
+  ],
+  "gate": [
+    "tool_object",
+    "place"
+  ],
+  "gather": [
+    "action"
+  ],
+  "gauge": [
+    "tool_object",
+    "holdable"
+  ],
+  "gaze": [
+    "action"
+  ],
+  "general": [
+    "descriptor"
+  ],
+  "genius": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "genre": [
+    "abstract"
+  ],
+  "gentle": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "genuine": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "gesture": [
+    "action"
+  ],
+  "ghost": [
+    "emotion_feeling",
+    "person_role",
+    "negative"
+  ],
+  "giant": [
+    "person_role",
+    "descriptor"
+  ],
+  "gift": [
+    "tool_object",
+    "positive",
+    "holdable"
+  ],
+  "giggle": [
+    "emotion_feeling",
+    "action"
+  ],
+  "ginger": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "giraffe": [
+    "animal"
+  ],
+  "girl": [
+    "person_role"
+  ],
+  "give": [
+    "action"
+  ],
+  "glad": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "glance": [
+    "action"
+  ],
+  "glare": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "glass": [
+    "tool_object",
+    "holdable"
+  ],
+  "glide": [
+    "action"
+  ],
+  "glimpse": [
+    "action"
+  ],
+  "globe": [
+    "tool_object",
+    "place",
+    "holdable"
+  ],
+  "gloom": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "glory": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "glove": [
+    "tool_object",
+    "holdable"
+  ],
+  "glow": [
+    "weather_element",
+    "action"
+  ],
+  "glue": [
+    "tool_object",
+    "holdable"
+  ],
+  "goat": [
+    "animal"
+  ],
+  "goddess": [
+    "person_role"
+  ],
+  "gold": [
+    "tool_object",
+    "positive",
+    "holdable"
+  ],
+  "good": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "goose": [
+    "animal"
+  ],
+  "gorilla": [
+    "animal",
+    "person_role"
+  ],
+  "gospel": [
+    "abstract"
+  ],
+  "gossip": [
+    "person_role",
+    "negative"
+  ],
+  "govern": [
+    "person_role",
+    "action"
+  ],
+  "gown": [
+    "abstract"
+  ],
+  "grab": [
+    "action"
+  ],
+  "grace": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "grain": [
+    "nature_plant",
+    "food_drink",
+    "holdable"
+  ],
+  "grant": [
+    "positive",
+    "action"
+  ],
+  "grape": [
+    "nature_plant",
+    "food_drink",
+    "holdable"
+  ],
+  "grass": [
+    "nature_plant"
+  ],
+  "gravity": [
+    "space",
+    "action"
+  ],
+  "great": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "green": [
+    "descriptor"
+  ],
+  "grid": [
+    "tool_object",
+    "holdable"
+  ],
+  "grief": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "grit": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "grocery": [
+    "food_drink"
+  ],
+  "group": [
+    "person_role"
+  ],
+  "grow": [
+    "action"
+  ],
+  "grunt": [
+    "action"
+  ],
+  "guard": [
+    "person_role",
+    "action"
+  ],
+  "guess": [
+    "action"
+  ],
+  "guide": [
+    "person_role",
+    "positive",
+    "action"
+  ],
+  "guilt": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "guitar": [
+    "tool_object",
+    "holdable"
+  ],
+  "gun": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "gym": [
+    "tool_object",
+    "person_role",
+    "place"
+  ],
+  "habit": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "hair": [
+    "body_part"
+  ],
+  "half": [
+    "tool_object",
+    "person_role",
+    "holdable",
+    "descriptor"
+  ],
+  "hammer": [
+    "tool_object",
+    "holdable"
+  ],
+  "hamster": [
+    "animal"
+  ],
+  "hand": [
+    "body_part"
+  ],
+  "happy": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "harbor": [
+    "place"
+  ],
+  "hard": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "harsh": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "harvest": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "hat": [
+    "tool_object",
+    "holdable"
+  ],
+  "have": [
+    "action"
+  ],
+  "hawk": [
+    "animal"
+  ],
+  "hazard": [
+    "negative",
+    "descriptor"
+  ],
+  "head": [
+    "body_part",
+    "action"
+  ],
+  "health": [
+    "positive"
+  ],
+  "heart": [
+    "body_part",
+    "positive",
+    "descriptor"
+  ],
+  "heavy": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "hedgehog": [
+    "abstract"
+  ],
+  "height": [
+    "abstract"
+  ],
+  "hello": [
+    "abstract"
+  ],
+  "helmet": [
+    "tool_object",
+    "holdable"
+  ],
+  "help": [
+    "action"
+  ],
+  "hen": [
+    "animal"
+  ],
+  "hero": [
+    "person_role",
+    "positive"
+  ],
+  "hidden": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "high": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "hill": [
+    "place"
+  ],
+  "hint": [
+    "tool_object",
+    "action"
+  ],
+  "hip": [
+    "body_part"
+  ],
+  "hire": [
+    "action"
+  ],
+  "history": [
+    "abstract"
+  ],
+  "hobby": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "hockey": [
+    "tool_object"
+  ],
+  "hold": [
+    "action"
+  ],
+  "hole": [
+    "tool_object",
+    "emotion_feeling",
+    "place"
+  ],
+  "holiday": [
+    "abstract"
+  ],
+  "hollow": [
+    "emotion_feeling",
+    "place",
+    "descriptor"
+  ],
+  "home": [
+    "emotion_feeling",
+    "place",
+    "positive"
+  ],
+  "honey": [
+    "emotion_feeling",
+    "food_drink",
+    "positive"
+  ],
+  "hood": [
+    "tool_object"
+  ],
+  "hope": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "horn": [
+    "tool_object",
+    "holdable"
+  ],
+  "horror": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "horse": [
+    "animal"
+  ],
+  "hospital": [
+    "place",
+    "descriptor"
+  ],
+  "host": [
+    "person_role",
+    "action"
+  ],
+  "hotel": [
+    "place"
+  ],
+  "hour": [
+    "descriptor"
+  ],
+  "hover": [
+    "action"
+  ],
+  "hub": [
+    "tool_object",
+    "place"
+  ],
+  "huge": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "human": [
+    "person_role"
+  ],
+  "humble": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "humor": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "hundred": [
+    "descriptor"
+  ],
+  "hungry": [
+    "emotion_feeling",
+    "food_drink",
+    "negative",
+    "descriptor"
+  ],
+  "hunt": [
+    "action"
+  ],
+  "hurdle": [
+    "negative",
+    "action"
+  ],
+  "hurry": [
+    "negative",
+    "action"
+  ],
+  "hurt": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "husband": [
+    "person_role"
+  ],
+  "hybrid": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "ice": [
+    "tool_object",
+    "weather_element",
+    "holdable"
+  ],
+  "icon": [
+    "abstract"
+  ],
+  "idea": [
+    "abstract"
+  ],
+  "identify": [
+    "action"
+  ],
+  "idle": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "ignore": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "ill": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "illegal": [
+    "negative",
+    "descriptor"
+  ],
+  "illness": [
+    "negative"
+  ],
+  "image": [
+    "tool_object",
+    "emotion_feeling",
+    "holdable"
+  ],
+  "imitate": [
+    "action"
+  ],
+  "immense": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "immune": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "impact": [
+    "abstract"
+  ],
+  "impose": [
+    "negative",
+    "action"
+  ],
+  "improve": [
+    "positive",
+    "action"
+  ],
+  "impulse": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "inch": [
+    "tool_object",
+    "holdable"
+  ],
+  "include": [
+    "positive",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "income": [
+    "negative"
+  ],
+  "increase": [
+    "negative",
+    "action"
+  ],
+  "index": [
+    "negative"
+  ],
+  "indicate": [
+    "negative",
+    "action"
+  ],
+  "indoor": [
+    "place",
+    "negative",
+    "descriptor"
+  ],
+  "industry": [
+    "negative"
+  ],
+  "infant": [
+    "person_role",
+    "negative",
+    "descriptor"
+  ],
+  "inflict": [
+    "negative",
+    "action"
+  ],
+  "inform": [
+    "negative",
+    "action"
+  ],
+  "inhale": [
+    "negative",
+    "action"
+  ],
+  "inherit": [
+    "negative",
+    "action"
+  ],
+  "initial": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "inject": [
+    "negative",
+    "action"
+  ],
+  "injury": [
+    "negative"
+  ],
+  "inmate": [
+    "person_role",
+    "negative"
+  ],
+  "inner": [
+    "negative",
+    "descriptor"
+  ],
+  "innocent": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "input": [
+    "negative"
+  ],
+  "inquiry": [
+    "negative"
+  ],
+  "insane": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "insect": [
+    "animal",
+    "negative"
+  ],
+  "inside": [
+    "negative",
+    "descriptor"
+  ],
+  "inspire": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "install": [
+    "negative",
+    "action"
+  ],
+  "intact": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "interest": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "into": [
+    "negative"
+  ],
+  "invest": [
+    "negative",
+    "action"
+  ],
+  "invite": [
+    "negative",
+    "action"
+  ],
+  "involve": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "iron": [
+    "tool_object",
+    "holdable"
+  ],
+  "island": [
+    "place"
+  ],
+  "isolate": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "issue": [
+    "negative"
+  ],
+  "item": [
+    "tool_object",
+    "holdable"
+  ],
+  "ivory": [
+    "tool_object",
+    "holdable"
+  ],
+  "jacket": [
+    "tool_object",
+    "holdable"
+  ],
+  "jaguar": [
+    "animal"
+  ],
+  "jar": [
+    "tool_object",
+    "holdable"
+  ],
+  "jazz": [
+    "abstract"
+  ],
+  "jealous": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "jeans": [
+    "tool_object",
+    "holdable"
+  ],
+  "jelly": [
+    "abstract"
+  ],
+  "jewel": [
+    "tool_object",
+    "positive",
+    "holdable"
+  ],
+  "job": [
+    "abstract"
+  ],
+  "join": [
+    "action"
+  ],
+  "joke": [
+    "emotion_feeling"
+  ],
+  "journey": [
+    "action"
+  ],
+  "joy": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "judge": [
+    "person_role",
+    "action"
+  ],
+  "juice": [
+    "food_drink"
+  ],
+  "jump": [
+    "action"
+  ],
+  "jungle": [
+    "nature_plant",
+    "place"
+  ],
+  "junior": [
+    "person_role",
+    "descriptor"
+  ],
+  "junk": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "just": [
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "kangaroo": [
+    "animal"
+  ],
+  "keen": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "keep": [
+    "action"
+  ],
+  "ketchup": [
+    "food_drink"
+  ],
+  "key": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "kick": [
+    "negative",
+    "action"
+  ],
+  "kid": [
+    "person_role"
+  ],
+  "kidney": [
+    "abstract"
+  ],
+  "kind": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "kingdom": [
+    "person_role",
+    "place"
+  ],
+  "kiss": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "kit": [
+    "tool_object",
+    "holdable"
+  ],
+  "kitchen": [
+    "tool_object"
+  ],
+  "kite": [
+    "tool_object",
+    "holdable"
+  ],
+  "kitten": [
+    "animal"
+  ],
+  "kiwi": [
+    "food_drink"
+  ],
+  "knee": [
+    "body_part"
+  ],
+  "knife": [
+    "tool_object",
+    "holdable"
+  ],
+  "knock": [
+    "action"
+  ],
+  "know": [
+    "positive",
+    "action"
+  ],
+  "lab": [
+    "tool_object",
+    "place"
+  ],
+  "label": [
+    "tool_object",
+    "holdable"
+  ],
+  "labor": [
+    "negative",
+    "action"
+  ],
+  "ladder": [
+    "tool_object",
+    "holdable"
+  ],
+  "lady": [
+    "person_role"
+  ],
+  "lake": [
+    "place"
+  ],
+  "lamp": [
+    "tool_object",
+    "holdable"
+  ],
+  "language": [
+    "abstract"
+  ],
+  "laptop": [
+    "tool_object",
+    "holdable"
+  ],
+  "large": [
+    "descriptor"
+  ],
+  "later": [
+    "negative",
+    "descriptor"
+  ],
+  "latin": [
+    "descriptor"
+  ],
+  "laugh": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "laundry": [
+    "abstract"
+  ],
+  "lava": [
+    "weather_element"
+  ],
+  "law": [
+    "negative"
+  ],
+  "lawn": [
+    "nature_plant",
+    "place"
+  ],
+  "lawsuit": [
+    "negative"
+  ],
+  "layer": [
+    "tool_object"
+  ],
+  "lazy": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "leader": [
+    "person_role",
+    "positive"
+  ],
+  "leaf": [
+    "nature_plant",
+    "holdable"
+  ],
+  "learn": [
+    "positive",
+    "action"
+  ],
+  "leave": [
+    "action"
+  ],
+  "lecture": [
+    "abstract"
+  ],
+  "left": [
+    "descriptor"
+  ],
+  "leg": [
+    "body_part"
+  ],
+  "legal": [
+    "descriptor"
+  ],
+  "legend": [
+    "emotion_feeling",
+    "person_role",
+    "positive"
+  ],
+  "leisure": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "lemon": [
+    "nature_plant",
+    "food_drink",
+    "holdable"
+  ],
+  "lend": [
+    "action"
+  ],
+  "length": [
+    "abstract"
+  ],
+  "lens": [
+    "tool_object",
+    "holdable"
+  ],
+  "leopard": [
+    "animal"
+  ],
+  "lesson": [
+    "abstract"
+  ],
+  "letter": [
+    "tool_object",
+    "holdable"
+  ],
+  "level": [
+    "descriptor"
+  ],
+  "liar": [
+    "person_role",
+    "negative",
+    "descriptor"
+  ],
+  "liberty": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "library": [
+    "tool_object",
+    "place"
+  ],
+  "license": [
+    "tool_object",
+    "holdable"
+  ],
+  "life": [
+    "positive"
+  ],
+  "lift": [
+    "tool_object",
+    "action"
+  ],
+  "light": [
+    "tool_object",
+    "weather_element",
+    "positive",
+    "holdable",
+    "descriptor"
+  ],
+  "like": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "limb": [
+    "body_part"
+  ],
+  "limit": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "link": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "lion": [
+    "animal"
+  ],
+  "liquid": [
+    "negative"
+  ],
+  "list": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "little": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "live": [
+    "emotion_feeling",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "lizard": [
+    "animal"
+  ],
+  "load": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "loan": [
+    "tool_object"
+  ],
+  "lobster": [
+    "animal",
+    "tool_object",
+    "holdable"
+  ],
+  "local": [
+    "person_role",
+    "place",
+    "descriptor"
+  ],
+  "lock": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "logic": [
+    "abstract"
+  ],
+  "lonely": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "long": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "loop": [
+    "tool_object",
+    "negative"
+  ],
+  "lottery": [
+    "abstract"
+  ],
+  "loud": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "lounge": [
+    "place"
+  ],
+  "love": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "loyal": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "lucky": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "luggage": [
+    "tool_object",
+    "holdable"
+  ],
+  "lumber": [
+    "tool_object",
+    "holdable"
+  ],
+  "lunar": [
+    "space",
+    "descriptor"
+  ],
+  "lunch": [
+    "food_drink"
+  ],
+  "luxury": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "lyrics": [
+    "abstract"
+  ],
+  "machine": [
+    "tool_object",
+    "holdable"
+  ],
+  "mad": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "magic": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "magnet": [
+    "tool_object",
+    "holdable"
+  ],
+  "maid": [
+    "person_role"
+  ],
+  "mail": [
+    "tool_object",
+    "holdable"
+  ],
+  "main": [
+    "descriptor"
+  ],
+  "major": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "make": [
+    "action"
+  ],
+  "mammal": [
+    "animal",
+    "person_role"
+  ],
+  "man": [
+    "person_role"
+  ],
+  "manage": [
+    "person_role",
+    "action"
+  ],
+  "mandate": [
+    "negative",
+    "action"
+  ],
+  "mango": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "mansion": [
+    "tool_object",
+    "place"
+  ],
+  "manual": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "maple": [
+    "nature_plant"
+  ],
+  "marble": [
+    "tool_object",
+    "holdable"
+  ],
+  "march": [
+    "action"
+  ],
+  "margin": [
+    "place",
+    "negative"
+  ],
+  "marine": [
+    "place",
+    "descriptor"
+  ],
+  "market": [
+    "place",
+    "action"
+  ],
+  "marriage": [
+    "abstract"
+  ],
+  "mask": [
+    "tool_object",
+    "holdable"
+  ],
+  "mass": [
+    "negative",
+    "descriptor"
+  ],
+  "master": [
+    "person_role",
+    "positive"
+  ],
+  "match": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "material": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "math": [
+    "descriptor"
+  ],
+  "matrix": [
+    "tool_object",
+    "holdable"
+  ],
+  "matter": [
+    "negative",
+    "descriptor"
+  ],
+  "maximum": [
+    "negative",
+    "descriptor"
+  ],
+  "maze": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "meadow": [
+    "nature_plant",
+    "place"
+  ],
+  "mean": [
+    "emotion_feeling",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "measure": [
+    "negative",
+    "action"
+  ],
+  "meat": [
+    "food_drink"
+  ],
+  "mechanic": [
+    "tool_object",
+    "person_role"
+  ],
+  "medal": [
+    "tool_object",
+    "holdable"
+  ],
+  "media": [
+    "abstract"
+  ],
+  "melody": [
+    "abstract"
+  ],
+  "melt": [
+    "weather_element",
+    "action"
+  ],
+  "member": [
+    "person_role"
+  ],
+  "memory": [
+    "abstract"
+  ],
+  "mention": [
+    "action"
+  ],
+  "menu": [
+    "tool_object",
+    "holdable"
+  ],
+  "mercy": [
+    "emotion_feeling"
+  ],
+  "merge": [
+    "action"
+  ],
+  "merit": [
+    "positive"
+  ],
+  "merry": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "mesh": [
+    "tool_object",
+    "holdable"
+  ],
+  "message": [
+    "tool_object",
+    "holdable"
+  ],
+  "metal": [
+    "tool_object",
+    "holdable"
+  ],
+  "method": [
+    "tool_object",
+    "holdable"
+  ],
+  "middle": [
+    "place",
+    "descriptor"
+  ],
+  "midnight": [
+    "negative",
+    "descriptor"
+  ],
+  "milk": [
+    "tool_object",
+    "food_drink",
+    "holdable"
+  ],
+  "million": [
+    "person_role",
+    "negative",
+    "descriptor"
+  ],
+  "mimic": [
+    "negative",
+    "action"
+  ],
+  "mind": [
+    "negative",
+    "action"
+  ],
+  "minimum": [
+    "negative",
+    "descriptor"
+  ],
+  "minor": [
+    "person_role",
+    "negative",
+    "descriptor"
+  ],
+  "minute": [
+    "negative",
+    "descriptor"
+  ],
+  "miracle": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "mirror": [
+    "tool_object",
+    "holdable"
+  ],
+  "misery": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "miss": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "mistake": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "mix": [
+    "negative",
+    "action"
+  ],
+  "mixed": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "mixture": [
+    "negative"
+  ],
+  "mobile": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "model": [
+    "tool_object",
+    "person_role",
+    "holdable",
+    "action"
+  ],
+  "modify": [
+    "action"
+  ],
+  "mom": [
+    "person_role"
+  ],
+  "moment": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "monitor": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "monkey": [
+    "animal",
+    "person_role"
+  ],
+  "monster": [
+    "animal"
+  ],
+  "month": [
+    "descriptor"
+  ],
+  "moon": [
+    "space",
+    "weather_element"
+  ],
+  "moral": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "more": [
+    "descriptor"
+  ],
+  "morning": [
+    "weather_element",
+    "descriptor"
+  ],
+  "mosquito": [
+    "animal"
+  ],
+  "mother": [
+    "person_role"
+  ],
+  "motion": [
+    "abstract"
+  ],
+  "motor": [
+    "tool_object",
+    "holdable"
+  ],
+  "mountain": [
+    "place"
+  ],
+  "mouse": [
+    "animal"
+  ],
+  "move": [
+    "action"
+  ],
+  "movie": [
+    "abstract"
+  ],
+  "much": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "muffin": [
+    "tool_object",
+    "food_drink",
+    "holdable"
+  ],
+  "mule": [
+    "animal"
+  ],
+  "multiply": [
+    "action"
+  ],
+  "muscle": [
+    "body_part"
+  ],
+  "museum": [
+    "tool_object",
+    "place"
+  ],
+  "mushroom": [
+    "nature_plant",
+    "food_drink",
+    "holdable"
+  ],
+  "music": [
+    "abstract"
+  ],
+  "must": [
+    "negative",
+    "descriptor"
+  ],
+  "mutual": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "myself": [
+    "person_role"
+  ],
+  "mystery": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "myth": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "naive": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "name": [
+    "negative",
+    "action"
+  ],
+  "napkin": [
+    "abstract"
+  ],
+  "narrow": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "nasty": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "nation": [
+    "person_role",
+    "place"
+  ],
+  "nature": [
+    "emotion_feeling",
+    "place",
+    "positive"
+  ],
+  "near": [
+    "emotion_feeling",
+    "place",
+    "positive",
+    "descriptor"
+  ],
+  "neck": [
+    "body_part"
+  ],
+  "need": [
+    "negative",
+    "action"
+  ],
+  "negative": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "neglect": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "neither": [
+    "negative",
+    "descriptor"
+  ],
+  "nephew": [
+    "person_role"
+  ],
+  "nerve": [
+    "body_part"
+  ],
+  "nest": [
+    "animal",
+    "place"
+  ],
+  "net": [
+    "tool_object",
+    "holdable"
+  ],
+  "network": [
+    "tool_object",
+    "place",
+    "holdable"
+  ],
+  "neutral": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "never": [
+    "negative",
+    "descriptor"
+  ],
+  "news": [
+    "abstract"
+  ],
+  "next": [
+    "place",
+    "descriptor"
+  ],
+  "nice": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "night": [
+    "weather_element"
+  ],
+  "noble": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "noise": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "nominee": [
+    "person_role",
+    "descriptor"
+  ],
+  "noodle": [
+    "food_drink"
+  ],
+  "normal": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "north": [
+    "space",
+    "place",
+    "descriptor"
+  ],
+  "nose": [
+    "body_part"
+  ],
+  "notable": [
+    "descriptor"
+  ],
+  "note": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "nothing": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "notice": [
+    "negative",
+    "action"
+  ],
+  "novel": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "now": [
+    "negative",
+    "descriptor"
+  ],
+  "nuclear": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "number": [
+    "negative",
+    "descriptor"
+  ],
+  "nurse": [
+    "person_role"
+  ],
+  "nut": [
+    "tool_object",
+    "food_drink",
+    "holdable"
+  ],
+  "oak": [
+    "nature_plant",
+    "place"
+  ],
+  "obey": [
+    "action"
+  ],
+  "object": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "oblige": [
+    "negative",
+    "action"
+  ],
+  "obscure": [
+    "negative"
+  ],
+  "observe": [
+    "negative",
+    "action"
+  ],
+  "obtain": [
+    "negative",
+    "action"
+  ],
+  "obvious": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "occur": [
+    "negative",
+    "action"
+  ],
+  "ocean": [
+    "weather_element",
+    "place"
+  ],
+  "october": [
+    "abstract"
+  ],
+  "odor": [
+    "abstract"
+  ],
+  "off": [
+    "negative",
+    "descriptor"
+  ],
+  "offer": [
+    "action"
+  ],
+  "office": [
+    "tool_object",
+    "place"
+  ],
+  "often": [
+    "negative",
+    "descriptor"
+  ],
+  "oil": [
+    "tool_object",
+    "food_drink",
+    "holdable"
+  ],
+  "okay": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "old": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "olive": [
+    "nature_plant",
+    "food_drink",
+    "holdable"
+  ],
+  "olympic": [
+    "descriptor"
+  ],
+  "omit": [
+    "action"
+  ],
+  "once": [
+    "descriptor"
+  ],
+  "one": [
+    "descriptor"
+  ],
+  "onion": [
+    "nature_plant",
+    "food_drink",
+    "holdable"
+  ],
+  "online": [
+    "descriptor"
+  ],
+  "only": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "open": [
+    "emotion_feeling",
+    "place",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "opera": [
+    "abstract"
+  ],
+  "opinion": [
+    "descriptor"
+  ],
+  "oppose": [
+    "emotion_feeling",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "option": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "orange": [
+    "nature_plant",
+    "food_drink",
+    "holdable"
+  ],
+  "orbit": [
+    "space",
+    "action"
+  ],
+  "orchard": [
+    "nature_plant",
+    "place"
+  ],
+  "order": [
+    "action"
+  ],
+  "ordinary": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "organ": [
+    "body_part",
+    "holdable"
+  ],
+  "orient": [
+    "action",
+    "descriptor"
+  ],
+  "original": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "orphan": [
+    "person_role"
+  ],
+  "ostrich": [
+    "animal"
+  ],
+  "other": [
+    "emotion_feeling",
+    "person_role",
+    "negative",
+    "descriptor"
+  ],
+  "outdoor": [
+    "emotion_feeling",
+    "place",
+    "descriptor"
+  ],
+  "outer": [
+    "person_role",
+    "place",
+    "negative",
+    "descriptor"
+  ],
+  "output": [
+    "person_role",
+    "negative"
+  ],
+  "outside": [
+    "person_role",
+    "place",
+    "negative",
+    "descriptor"
+  ],
+  "oval": [
+    "negative"
+  ],
+  "oven": [
+    "tool_object",
+    "holdable"
+  ],
+  "over": [
+    "negative",
+    "descriptor"
+  ],
+  "own": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "owner": [
+    "person_role"
+  ],
+  "oxygen": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "oyster": [
+    "animal",
+    "food_drink"
+  ],
+  "ozone": [
+    "weather_element",
+    "place",
+    "negative"
+  ],
+  "pact": [
+    "negative"
+  ],
+  "paddle": [
+    "tool_object",
+    "holdable"
+  ],
+  "page": [
+    "tool_object",
+    "holdable"
+  ],
+  "pair": [
+    "tool_object",
+    "person_role",
+    "holdable"
+  ],
+  "palace": [
+    "tool_object",
+    "place",
+    "positive"
+  ],
+  "palm": [
+    "nature_plant",
+    "place"
+  ],
+  "panda": [
+    "animal"
+  ],
+  "panel": [
+    "tool_object",
+    "person_role",
+    "holdable"
+  ],
+  "panic": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "panther": [
+    "animal"
+  ],
+  "paper": [
+    "tool_object",
+    "holdable"
+  ],
+  "parade": [
+    "abstract"
+  ],
+  "parent": [
+    "person_role"
+  ],
+  "park": [
+    "place"
+  ],
+  "parrot": [
+    "animal"
+  ],
+  "party": [
+    "person_role"
+  ],
+  "pass": [
+    "negative",
+    "action"
+  ],
+  "patch": [
+    "tool_object",
+    "holdable"
+  ],
+  "path": [
+    "tool_object",
+    "place"
+  ],
+  "patient": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "patrol": [
+    "negative",
+    "action"
+  ],
+  "pattern": [
+    "tool_object",
+    "holdable"
+  ],
+  "pause": [
+    "emotion_feeling",
+    "action"
+  ],
+  "pave": [
+    "action"
+  ],
+  "payment": [
+    "tool_object",
+    "holdable"
+  ],
+  "peace": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "peanut": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "pear": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "peasant": [
+    "person_role"
+  ],
+  "pelican": [
+    "animal"
+  ],
+  "pen": [
+    "tool_object",
+    "holdable"
+  ],
+  "penalty": [
+    "tool_object",
+    "negative"
+  ],
+  "pencil": [
+    "tool_object",
+    "holdable"
+  ],
+  "people": [
+    "person_role",
+    "negative"
+  ],
+  "pepper": [
+    "nature_plant",
+    "food_drink",
+    "negative",
+    "holdable"
+  ],
+  "perfect": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "permit": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "person": [
+    "person_role",
+    "negative"
+  ],
+  "pet": [
+    "animal",
+    "person_role"
+  ],
+  "phone": [
+    "tool_object",
+    "holdable"
+  ],
+  "photo": [
+    "tool_object",
+    "holdable"
+  ],
+  "phrase": [
+    "tool_object",
+    "action"
+  ],
+  "physical": [
+    "negative",
+    "descriptor"
+  ],
+  "piano": [
+    "tool_object",
+    "holdable"
+  ],
+  "picnic": [
+    "food_drink"
+  ],
+  "picture": [
+    "tool_object",
+    "holdable"
+  ],
+  "piece": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "pig": [
+    "animal",
+    "negative",
+    "holdable"
+  ],
+  "pigeon": [
+    "animal"
+  ],
+  "pill": [
+    "tool_object",
+    "holdable"
+  ],
+  "pilot": [
+    "person_role"
+  ],
+  "pink": [
+    "negative",
+    "descriptor"
+  ],
+  "pioneer": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "pipe": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "pistol": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "pitch": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "pizza": [
+    "tool_object",
+    "food_drink",
+    "holdable"
+  ],
+  "place": [
+    "tool_object",
+    "negative",
+    "action"
+  ],
+  "planet": [
+    "space",
+    "place",
+    "negative"
+  ],
+  "plastic": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "descriptor"
+  ],
+  "plate": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "play": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "please": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "pledge": [
+    "tool_object",
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "pluck": [
+    "negative",
+    "action"
+  ],
+  "plug": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "plunge": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "poem": [
+    "tool_object",
+    "emotion_feeling",
+    "negative",
+    "holdable"
+  ],
+  "poet": [
+    "person_role",
+    "negative"
+  ],
+  "point": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "polar": [
+    "space",
+    "negative",
+    "descriptor"
+  ],
+  "pole": [
+    "tool_object",
+    "place",
+    "negative",
+    "holdable"
+  ],
+  "police": [
+    "person_role",
+    "negative"
+  ],
+  "pond": [
+    "place",
+    "negative"
+  ],
+  "pony": [
+    "animal"
+  ],
+  "pool": [
+    "tool_object",
+    "place"
+  ],
+  "popular": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "portion": [
+    "negative"
+  ],
+  "position": [
+    "person_role",
+    "place",
+    "negative"
+  ],
+  "possible": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "post": [
+    "negative",
+    "action"
+  ],
+  "potato": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "pottery": [
+    "tool_object",
+    "holdable"
+  ],
+  "poverty": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "powder": [
+    "tool_object",
+    "holdable"
+  ],
+  "power": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "practice": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "praise": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "predict": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "prefer": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "prepare": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "present": [
+    "emotion_feeling",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "pretty": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "prevent": [
+    "emotion_feeling",
+    "action"
+  ],
+  "price": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "pride": [
+    "emotion_feeling",
+    "person_role",
+    "positive"
+  ],
+  "primary": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "print": [
+    "tool_object",
+    "emotion_feeling",
+    "holdable",
+    "action"
+  ],
+  "priority": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "prison": [
+    "tool_object",
+    "place",
+    "negative"
+  ],
+  "private": [
+    "emotion_feeling",
+    "person_role",
+    "negative",
+    "descriptor"
+  ],
+  "prize": [
+    "tool_object",
+    "positive",
+    "holdable"
+  ],
+  "problem": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "process": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "produce": [
+    "negative",
+    "action"
+  ],
+  "profit": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "program": [
+    "tool_object",
+    "negative",
+    "action"
+  ],
+  "project": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "promote": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "proof": [
+    "tool_object",
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "holdable"
+  ],
+  "property": [
+    "tool_object",
+    "emotion_feeling",
+    "place",
+    "negative"
+  ],
+  "prosper": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "protect": [
+    "tool_object",
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "proud": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "provide": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "public": [
+    "emotion_feeling",
+    "person_role",
+    "place",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "pudding": [
+    "tool_object",
+    "food_drink",
+    "holdable"
+  ],
+  "pull": [
+    "tool_object",
+    "emotion_feeling",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "pulp": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "pulse": [
+    "body_part"
+  ],
+  "pumpkin": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "punch": [
+    "tool_object",
+    "emotion_feeling",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "pupil": [
+    "person_role",
+    "negative"
+  ],
+  "puppy": [
+    "animal",
+    "person_role"
+  ],
+  "purchase": [
+    "negative",
+    "action"
+  ],
+  "purity": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "purpose": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "purse": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "push": [
+    "tool_object",
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "put": [
+    "negative",
+    "action"
+  ],
+  "puzzle": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "pyramid": [
+    "tool_object",
+    "place"
+  ],
+  "quality": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "quantum": [
+    "descriptor"
+  ],
+  "quarter": [
+    "negative",
+    "descriptor"
+  ],
+  "question": [
+    "emotion_feeling",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "quick": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "quit": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "quiz": [
+    "negative",
+    "descriptor"
+  ],
+  "quote": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "rabbit": [
+    "animal"
+  ],
+  "raccoon": [
+    "animal"
+  ],
+  "race": [
+    "emotion_feeling",
+    "person_role",
+    "place",
+    "action"
+  ],
+  "rack": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "radar": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "radio": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "rail": [
+    "tool_object",
+    "place",
+    "negative",
+    "holdable"
+  ],
+  "rain": [
+    "weather_element",
+    "negative"
+  ],
+  "raise": [
+    "negative",
+    "action"
+  ],
+  "rally": [
+    "negative",
+    "action"
+  ],
+  "ramp": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "ranch": [
+    "place",
+    "negative"
+  ],
+  "random": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "range": [
+    "emotion_feeling",
+    "place",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "rapid": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "rare": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "rate": [
+    "negative",
+    "action"
+  ],
+  "rather": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "raven": [
+    "animal"
+  ],
+  "raw": [
+    "emotion_feeling",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "razor": [
+    "tool_object",
+    "holdable"
+  ],
+  "ready": [
+    "emotion_feeling",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "real": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "reason": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "rebel": [
+    "emotion_feeling",
+    "person_role",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "rebuild": [
+    "negative",
+    "action"
+  ],
+  "recall": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "receive": [
+    "negative",
+    "action"
+  ],
+  "recipe": [
+    "tool_object",
+    "food_drink",
+    "positive",
+    "holdable"
+  ],
+  "record": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "recycle": [
+    "negative",
+    "action"
+  ],
+  "reduce": [
+    "negative",
+    "action"
+  ],
+  "reflect": [
+    "negative",
+    "action"
+  ],
+  "reform": [
+    "negative",
+    "action"
+  ],
+  "refuse": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "region": [
+    "place",
+    "negative"
+  ],
+  "regret": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "regular": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "reject": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "relax": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "release": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "relief": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "rely": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "remain": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "remember": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "remind": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "remove": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "render": [
+    "negative",
+    "action"
+  ],
+  "renew": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "rent": [
+    "negative",
+    "action"
+  ],
+  "reopen": [
+    "negative",
+    "action"
+  ],
+  "repair": [
+    "negative",
+    "action"
+  ],
+  "repeat": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "replace": [
+    "negative",
+    "action"
+  ],
+  "report": [
+    "negative",
+    "action"
+  ],
+  "require": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "rescue": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "resemble": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "resist": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "resource": [
+    "positive",
+    "negative"
+  ],
+  "response": [
+    "emotion_feeling",
+    "positive",
+    "negative"
+  ],
+  "result": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "retire": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "retreat": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "return": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "reunion": [
+    "negative"
+  ],
+  "reveal": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "review": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "reward": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "rhythm": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "rib": [
+    "body_part",
+    "negative"
+  ],
+  "ribbon": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "rice": [
+    "nature_plant",
+    "food_drink",
+    "negative",
+    "holdable"
+  ],
+  "rich": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "negative"
+  ],
+  "ride": [
+    "tool_object",
+    "negative",
+    "action"
+  ],
+  "ridge": [
+    "place",
+    "negative"
+  ],
+  "rifle": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "right": [
+    "emotion_feeling",
+    "positive",
+    "negative"
+  ],
+  "rigid": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "ring": [
+    "tool_object",
+    "place",
+    "negative",
+    "holdable"
+  ],
+  "riot": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "ripple": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "risk": [
+    "emotion_feeling",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "ritual": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "rival": [
+    "emotion_feeling",
+    "person_role",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "river": [
+    "weather_element",
+    "place",
+    "negative"
+  ],
+  "road": [
+    "tool_object",
+    "place",
+    "negative",
+    "holdable"
+  ],
+  "roast": [
+    "food_drink",
+    "negative",
+    "action"
+  ],
+  "robot": [
+    "tool_object",
+    "person_role",
+    "negative",
+    "holdable"
+  ],
+  "robust": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "rocket": [
+    "tool_object",
+    "space",
+    "negative",
+    "holdable"
+  ],
+  "romance": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "roof": [
+    "tool_object",
+    "place",
+    "negative"
+  ],
+  "rookie": [
+    "person_role",
+    "negative"
+  ],
+  "room": [
+    "tool_object",
+    "place",
+    "negative"
+  ],
+  "rose": [
+    "nature_plant",
+    "negative"
+  ],
+  "rotate": [
+    "negative",
+    "action"
+  ],
+  "rough": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "round": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "route": [
+    "tool_object",
+    "place",
+    "negative"
+  ],
+  "royal": [
+    "emotion_feeling",
+    "person_role",
+    "place",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "rubber": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "rude": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "rug": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "rule": [
+    "tool_object",
+    "negative",
+    "action"
+  ],
+  "run": [
+    "negative",
+    "action"
+  ],
+  "runway": [
+    "tool_object",
+    "place",
+    "negative"
+  ],
+  "rural": [
+    "emotion_feeling",
+    "place",
+    "negative",
+    "descriptor"
+  ],
+  "sad": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "saddle": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "sadness": [
+    "emotion_feeling",
+    "negative",
+    "descriptor"
+  ],
+  "safe": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "descriptor"
+  ],
+  "sail": [
+    "tool_object",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "salad": [
+    "nature_plant",
+    "food_drink",
+    "negative"
+  ],
+  "salmon": [
+    "animal",
+    "food_drink",
+    "negative"
+  ],
+  "salon": [
+    "tool_object",
+    "place",
+    "negative"
+  ],
+  "salt": [
+    "tool_object",
+    "food_drink",
+    "holdable"
+  ],
+  "salute": [
+    "negative",
+    "action"
+  ],
+  "same": [
+    "emotion_feeling",
+    "person_role",
+    "negative",
+    "descriptor"
+  ],
+  "sample": [
+    "tool_object",
+    "food_drink",
+    "negative",
+    "holdable",
+    "action"
+  ],
+  "sand": [
+    "tool_object",
+    "place",
+    "negative",
+    "holdable"
+  ],
+  "satisfy": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action",
+    "descriptor"
+  ],
+  "satoshi": [
+    "negative"
+  ],
+  "sauce": [
+    "tool_object",
+    "food_drink",
+    "negative",
+    "holdable"
+  ],
+  "sausage": [
+    "tool_object",
+    "food_drink",
+    "negative",
+    "holdable"
+  ],
+  "save": [
+    "emotion_feeling",
+    "positive",
+    "negative",
+    "action"
+  ],
+  "say": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "scale": [
+    "tool_object",
+    "negative",
+    "holdable"
+  ],
+  "scan": [
+    "negative",
+    "action"
+  ],
+  "scare": [
+    "emotion_feeling",
+    "negative",
+    "action"
+  ],
+  "scatter": [
+    "negative",
+    "action"
+  ],
+  "scene": [
+    "tool_object",
+    "place",
+    "negative"
+  ],
+  "scheme": [
+    "emotion_feeling",
+    "negative"
+  ],
+  "school": [
+    "place",
+    "negative"
+  ],
+  "science": [
+    "negative"
+  ],
+  "scissors": [
+    "tool_object",
+    "holdable"
+  ],
+  "scorpion": [
+    "animal"
+  ],
+  "scout": [
+    "person_role",
+    "action"
+  ],
+  "scrap": [
+    "action"
+  ],
+  "screen": [
+    "tool_object",
+    "holdable"
+  ],
+  "script": [
+    "tool_object",
+    "holdable"
+  ],
+  "scrub": [
+    "action"
+  ],
+  "sea": [
+    "tool_object",
+    "weather_element",
+    "place"
+  ],
+  "search": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "season": [
+    "weather_element"
+  ],
+  "seat": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "second": [
+    "descriptor"
+  ],
+  "secret": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "section": [
+    "tool_object",
+    "place"
+  ],
+  "security": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "seed": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "seek": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "segment": [
+    "abstract"
+  ],
+  "select": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "sell": [
+    "action"
+  ],
+  "seminar": [
+    "abstract"
+  ],
+  "senior": [
+    "person_role",
+    "descriptor"
+  ],
+  "sense": [
+    "emotion_feeling",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "sentence": [
+    "action"
+  ],
+  "series": [
+    "emotion_feeling",
+    "action",
+    "descriptor"
+  ],
+  "service": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "session": [
+    "action",
+    "descriptor"
+  ],
+  "settle": [
+    "emotion_feeling",
+    "place",
+    "positive",
+    "action"
+  ],
+  "setup": [
+    "tool_object",
+    "emotion_feeling",
+    "action",
+    "descriptor"
+  ],
+  "seven": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "shadow": [
+    "tool_object",
+    "weather_element"
+  ],
+  "shaft": [
+    "tool_object"
+  ],
+  "shallow": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "share": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "shed": [
+    "tool_object",
+    "place",
+    "action"
+  ],
+  "shell": [
+    "tool_object",
+    "holdable"
+  ],
+  "sheriff": [
+    "person_role"
+  ],
+  "shield": [
+    "tool_object",
+    "holdable"
+  ],
+  "shift": [
+    "emotion_feeling",
+    "action",
+    "descriptor"
+  ],
+  "shine": [
+    "weather_element",
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "ship": [
+    "tool_object",
+    "holdable"
+  ],
+  "shiver": [
+    "emotion_feeling",
+    "action"
+  ],
+  "shock": [
+    "weather_element",
+    "emotion_feeling",
+    "action"
+  ],
+  "shoe": [
+    "tool_object",
+    "holdable"
+  ],
+  "shoot": [
+    "action"
+  ],
+  "shop": [
+    "tool_object",
+    "place",
+    "action"
+  ],
+  "short": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "shoulder": [
+    "body_part"
+  ],
+  "shove": [
+    "emotion_feeling",
+    "action"
+  ],
+  "shrimp": [
+    "animal",
+    "food_drink"
+  ],
+  "shrug": [
+    "emotion_feeling",
+    "action"
+  ],
+  "shuffle": [
+    "emotion_feeling",
+    "action"
+  ],
+  "shy": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "sibling": [
+    "person_role"
+  ],
+  "sick": [
+    "emotion_feeling",
+    "person_role",
+    "descriptor"
+  ],
+  "side": [
+    "place"
+  ],
+  "siege": [
+    "abstract"
+  ],
+  "sight": [
+    "emotion_feeling",
+    "place",
+    "descriptor"
+  ],
+  "sign": [
+    "tool_object",
+    "action"
+  ],
+  "silent": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "silk": [
+    "tool_object",
+    "holdable"
+  ],
+  "silly": [
+    "emotion_feeling",
+    "person_role",
+    "descriptor"
+  ],
+  "silver": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "similar": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "simple": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "since": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "sing": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "siren": [
+    "tool_object"
+  ],
+  "sister": [
+    "person_role"
+  ],
+  "situate": [
+    "emotion_feeling",
+    "action",
+    "descriptor"
+  ],
+  "six": [
+    "emotion_feeling",
+    "person_role",
+    "descriptor"
+  ],
+  "size": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "skate": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "sketch": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "ski": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "skill": [
+    "emotion_feeling",
+    "positive"
+  ],
+  "skin": [
+    "body_part"
+  ],
+  "skirt": [
+    "tool_object",
+    "holdable"
+  ],
+  "skull": [
+    "body_part"
+  ],
+  "slab": [
+    "tool_object",
+    "holdable"
+  ],
+  "slam": [
+    "tool_object",
+    "action"
+  ],
+  "sleep": [
+    "emotion_feeling",
+    "action"
+  ],
+  "slender": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "slice": [
+    "tool_object",
+    "food_drink",
+    "holdable",
+    "action"
+  ],
+  "slide": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "slight": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "slim": [
+    "emotion_feeling",
+    "person_role",
+    "action",
+    "descriptor"
+  ],
+  "slogan": [
+    "abstract"
+  ],
+  "slot": [
+    "tool_object",
+    "place",
+    "holdable"
+  ],
+  "slow": [
+    "emotion_feeling",
+    "action",
+    "descriptor"
+  ],
+  "slush": [
+    "weather_element"
+  ],
+  "small": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "smart": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "smile": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "smoke": [
+    "weather_element",
+    "action"
+  ],
+  "smooth": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "snack": [
+    "person_role",
+    "food_drink",
+    "holdable"
+  ],
+  "snake": [
+    "animal"
+  ],
+  "snap": [
+    "emotion_feeling",
+    "action"
+  ],
+  "sniff": [
+    "emotion_feeling",
+    "action"
+  ],
+  "snow": [
+    "weather_element"
+  ],
+  "soap": [
+    "tool_object",
+    "food_drink",
+    "holdable"
+  ],
+  "soccer": [
+    "person_role"
+  ],
+  "social": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "sock": [
+    "tool_object",
+    "holdable"
+  ],
+  "soda": [
+    "tool_object",
+    "food_drink",
+    "holdable"
+  ],
+  "soft": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "solar": [
+    "space",
+    "weather_element",
+    "descriptor"
+  ],
+  "soldier": [
+    "tool_object",
+    "person_role"
+  ],
+  "solid": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "solution": [
+    "tool_object"
+  ],
+  "solve": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "someone": [
+    "emotion_feeling",
+    "person_role"
+  ],
+  "song": [
+    "tool_object",
+    "emotion_feeling"
+  ],
+  "soon": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "sorry": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "sort": [
+    "emotion_feeling",
+    "action"
+  ],
+  "soul": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "sound": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "soup": [
+    "tool_object",
+    "food_drink"
+  ],
+  "source": [
+    "tool_object"
+  ],
+  "south": [
+    "space",
+    "weather_element",
+    "person_role",
+    "place",
+    "descriptor"
+  ],
+  "space": [
+    "tool_object",
+    "space",
+    "place"
+  ],
+  "spare": [
+    "tool_object"
+  ],
+  "spatial": [
+    "descriptor"
+  ],
+  "spawn": [
+    "action"
+  ],
+  "speak": [
+    "action"
+  ],
+  "special": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "speed": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "spell": [
+    "emotion_feeling",
+    "action"
+  ],
+  "spend": [
+    "emotion_feeling",
+    "action"
+  ],
+  "sphere": [
+    "space"
+  ],
+  "spice": [
+    "tool_object",
+    "food_drink",
+    "holdable"
+  ],
+  "spider": [
+    "animal"
+  ],
+  "spike": [
+    "tool_object",
+    "holdable"
+  ],
+  "spin": [
+    "tool_object",
+    "action"
+  ],
+  "spirit": [
+    "tool_object",
+    "emotion_feeling",
+    "positive"
+  ],
+  "split": [
+    "emotion_feeling",
+    "action"
+  ],
+  "spoil": [
+    "emotion_feeling",
+    "action"
+  ],
+  "sponsor": [
+    "emotion_feeling",
+    "person_role",
+    "action"
+  ],
+  "spoon": [
+    "tool_object",
+    "holdable"
+  ],
+  "sport": [
+    "tool_object"
+  ],
+  "spot": [
+    "tool_object",
+    "place",
+    "action"
+  ],
+  "spray": [
+    "tool_object",
+    "emotion_feeling",
+    "holdable",
+    "action"
+  ],
+  "spread": [
+    "emotion_feeling",
+    "action"
+  ],
+  "spring": [
+    "nature_plant",
+    "weather_element"
+  ],
+  "spy": [
+    "emotion_feeling",
+    "person_role",
+    "action"
+  ],
+  "square": [
+    "place"
+  ],
+  "squeeze": [
+    "emotion_feeling",
+    "action"
+  ],
+  "squirrel": [
+    "animal"
+  ],
+  "stable": [
+    "emotion_feeling",
+    "place",
+    "positive",
+    "descriptor"
+  ],
+  "stadium": [
+    "tool_object",
+    "place"
+  ],
+  "staff": [
+    "tool_object",
+    "person_role",
+    "holdable"
+  ],
+  "stage": [
+    "tool_object",
+    "place"
+  ],
+  "stairs": [
+    "tool_object",
+    "place"
+  ],
+  "stamp": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "stand": [
+    "tool_object",
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "start": [
+    "emotion_feeling",
+    "positive",
+    "action"
+  ],
+  "state": [
+    "tool_object",
+    "emotion_feeling",
+    "place",
+    "action",
+    "descriptor"
+  ],
+  "stay": [
+    "emotion_feeling",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "steak": [
+    "tool_object",
+    "food_drink"
+  ],
+  "steel": [
+    "tool_object",
+    "holdable"
+  ],
+  "stem": [
+    "nature_plant"
+  ],
+  "step": [
+    "tool_object",
+    "action"
+  ],
+  "stereo": [
+    "tool_object",
+    "emotion_feeling",
+    "holdable",
+    "descriptor"
+  ],
+  "stick": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "still": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "sting": [
+    "emotion_feeling",
+    "action"
+  ],
+  "stock": [
+    "tool_object",
+    "emotion_feeling",
+    "action",
+    "descriptor"
+  ],
+  "stomach": [
+    "body_part"
+  ],
+  "stone": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "stool": [
+    "tool_object",
+    "holdable"
+  ],
+  "story": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "stove": [
+    "tool_object",
+    "holdable"
+  ],
+  "strategy": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "street": [
+    "tool_object",
+    "place",
+    "descriptor"
+  ],
+  "strike": [
+    "emotion_feeling",
+    "action",
+    "descriptor"
+  ],
+  "strong": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "struggle": [
+    "emotion_feeling",
+    "action",
+    "descriptor"
+  ],
+  "student": [
+    "person_role",
+    "descriptor"
+  ],
+  "stuff": [
+    "tool_object",
+    "emotion_feeling",
+    "positive",
+    "holdable",
+    "descriptor"
+  ],
+  "stumble": [
+    "action"
+  ],
+  "style": [
+    "tool_object",
+    "positive",
+    "descriptor"
+  ],
+  "subject": [
+    "person_role",
+    "descriptor"
+  ],
+  "submit": [
+    "emotion_feeling",
+    "action",
+    "descriptor"
+  ],
+  "subway": [
+    "abstract"
+  ],
+  "success": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "such": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "sudden": [
+    "emotion_feeling",
+    "descriptor"
+  ],
+  "suffer": [
+    "emotion_feeling"
+  ],
+  "sugar": [
+    "food_drink",
+    "descriptor"
+  ],
+  "suggest": [
+    "emotion_feeling",
+    "action"
+  ],
+  "suit": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "summer": [
+    "weather_element",
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "sun": [
+    "space",
+    "weather_element",
+    "positive",
+    "descriptor"
+  ],
+  "sunny": [
+    "space",
+    "weather_element",
+    "positive",
+    "descriptor"
+  ],
+  "sunset": [
+    "space",
+    "weather_element",
+    "descriptor"
+  ],
+  "super": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "supply": [
+    "tool_object",
+    "emotion_feeling",
+    "food_drink",
+    "positive",
+    "holdable",
+    "action",
+    "descriptor"
+  ],
+  "supreme": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "sure": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "surface": [
+    "tool_object",
+    "emotion_feeling",
+    "place",
+    "holdable",
+    "descriptor"
+  ],
+  "surge": [
+    "tool_object"
+  ],
+  "surprise": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "surround": [
+    "emotion_feeling",
+    "action"
+  ],
+  "survey": [
+    "action"
+  ],
+  "suspect": [
+    "emotion_feeling",
+    "person_role",
+    "action",
+    "descriptor"
+  ],
+  "sustain": [
+    "emotion_feeling",
+    "person_role",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "swallow": [
+    "emotion_feeling",
+    "action"
+  ],
+  "swamp": [
+    "weather_element",
+    "emotion_feeling",
+    "place"
+  ],
+  "swap": [
+    "emotion_feeling",
+    "action"
+  ],
+  "swarm": [
+    "emotion_feeling",
+    "action"
+  ],
+  "swear": [
+    "emotion_feeling",
+    "action"
+  ],
+  "sweet": [
+    "emotion_feeling",
+    "food_drink",
+    "positive",
+    "descriptor"
+  ],
+  "swift": [
+    "emotion_feeling",
+    "positive",
+    "descriptor"
+  ],
+  "swim": [
+    "emotion_feeling",
+    "action"
+  ],
+  "swing": [
+    "emotion_feeling",
+    "action"
+  ],
+  "switch": [
+    "emotion_feeling",
+    "action"
+  ],
+  "sword": [
+    "emotion_feeling",
+    "holdable"
+  ],
+  "symbol": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "symptom": [
+    "descriptor"
+  ],
+  "syrup": [
+    "tool_object",
+    "food_drink",
+    "holdable"
+  ],
+  "system": [
+    "tool_object",
+    "descriptor"
+  ],
+  "table": [
+    "tool_object",
+    "holdable"
+  ],
+  "tackle": [
+    "tool_object",
+    "holdable",
+    "action"
+  ],
+  "tag": [
+    "tool_object",
+    "holdable"
+  ],
+  "tail": [
+    "tool_object",
+    "holdable"
+  ],
+  "talent": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "talk": [
+    "action"
+  ],
+  "tank": [
+    "tool_object",
+    "person_role",
+    "holdable",
+    "action"
+  ],
+  "tape": [
+    "tool_object",
+    "holdable"
+  ],
+  "target": [
+    "tool_object",
+    "person_role",
+    "holdable",
+    "action"
+  ],
+  "task": [
+    "tool_object",
+    "person_role"
+  ],
+  "taste": [
+    "food_drink",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "tattoo": [
+    "tool_object",
+    "holdable"
+  ],
+  "taxi": [
+    "tool_object"
+  ],
+  "teach": [
+    "action"
+  ],
+  "team": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "tell": [
+    "action"
+  ],
+  "ten": [
+    "descriptor"
+  ],
+  "tenant": [
+    "person_role",
+    "descriptor"
+  ],
+  "tennis": [
+    "descriptor"
+  ],
+  "tent": [
+    "tool_object",
+    "place",
+    "holdable"
+  ],
+  "term": [
+    "descriptor"
+  ],
+  "test": [
+    "tool_object",
+    "action",
+    "descriptor"
+  ],
+  "text": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "thank": [
+    "action"
+  ],
+  "that": [
+    "descriptor"
+  ],
+  "theme": [
+    "tool_object",
+    "descriptor"
+  ],
+  "then": [
+    "descriptor"
+  ],
+  "theory": [
+    "descriptor"
+  ],
+  "there": [
+    "place",
+    "descriptor"
+  ],
+  "they": [
+    "descriptor"
+  ],
+  "thing": [
+    "descriptor"
+  ],
+  "this": [
+    "descriptor"
+  ],
+  "thought": [
+    "action",
+    "descriptor"
+  ],
+  "three": [
+    "descriptor"
+  ],
+  "thrive": [
+    "positive",
+    "descriptor"
+  ],
+  "throw": [
+    "action"
+  ],
+  "thumb": [
+    "body_part"
+  ],
+  "thunder": [
+    "weather_element"
+  ],
+  "ticket": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "tide": [
+    "weather_element",
+    "place",
+    "descriptor"
+  ],
+  "tiger": [
+    "animal",
+    "person_role",
+    "descriptor"
+  ],
+  "tilt": [
+    "action",
+    "descriptor"
+  ],
+  "timber": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "time": [
+    "descriptor"
+  ],
+  "tiny": [
+    "descriptor"
+  ],
+  "tip": [
+    "action"
+  ],
+  "tired": [
+    "descriptor"
+  ],
+  "tissue": [
+    "descriptor"
+  ],
+  "title": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "toast": [
+    "tool_object",
+    "food_drink",
+    "holdable",
+    "action"
+  ],
+  "tobacco": [
+    "tool_object",
+    "food_drink",
+    "holdable"
+  ],
+  "today": [
+    "descriptor"
+  ],
+  "toddler": [
+    "person_role",
+    "descriptor"
+  ],
+  "toe": [
+    "body_part"
+  ],
+  "together": [
+    "positive",
+    "descriptor"
+  ],
+  "toilet": [
+    "descriptor"
+  ],
+  "token": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "tomato": [
+    "nature_plant",
+    "food_drink"
+  ],
+  "tomorrow": [
+    "descriptor"
+  ],
+  "tone": [
+    "descriptor"
+  ],
+  "tongue": [
+    "body_part"
+  ],
+  "tonight": [
+    "descriptor"
+  ],
+  "tool": [
+    "tool_object",
+    "holdable"
+  ],
+  "tooth": [
+    "body_part"
+  ],
+  "top": [
+    "tool_object",
+    "place",
+    "positive",
+    "holdable",
+    "descriptor"
+  ],
+  "topic": [
+    "descriptor"
+  ],
+  "topple": [
+    "descriptor"
+  ],
+  "torch": [
+    "tool_object",
+    "holdable"
+  ],
+  "tornado": [
+    "weather_element"
+  ],
+  "tortoise": [
+    "animal"
+  ],
+  "toss": [
+    "tool_object",
+    "action"
+  ],
+  "total": [
+    "place",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "tourist": [
+    "person_role",
+    "place"
+  ],
+  "toward": [
+    "place",
+    "descriptor"
+  ],
+  "tower": [
+    "tool_object",
+    "place"
+  ],
+  "town": [
+    "place",
+    "descriptor"
+  ],
+  "toy": [
+    "tool_object",
+    "holdable"
+  ],
+  "track": [
+    "tool_object",
+    "place",
+    "action",
+    "descriptor"
+  ],
+  "trade": [
+    "action",
+    "descriptor"
+  ],
+  "traffic": [
+    "descriptor"
+  ],
+  "tragic": [
+    "descriptor"
+  ],
+  "train": [
+    "tool_object",
+    "action",
+    "descriptor"
+  ],
+  "transfer": [
+    "action",
+    "descriptor"
+  ],
+  "trap": [
+    "tool_object",
+    "action",
+    "descriptor"
+  ],
+  "trash": [
+    "tool_object",
+    "descriptor"
+  ],
+  "travel": [
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "tray": [
+    "tool_object",
+    "holdable"
+  ],
+  "treat": [
+    "tool_object",
+    "food_drink",
+    "positive",
+    "holdable",
+    "action",
+    "descriptor"
+  ],
+  "tree": [
+    "nature_plant",
+    "place"
+  ],
+  "trend": [
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "trial": [
+    "descriptor"
+  ],
+  "tribe": [
+    "person_role",
+    "descriptor"
+  ],
+  "trick": [
+    "action",
+    "descriptor"
+  ],
+  "trigger": [
+    "tool_object",
+    "holdable",
+    "action",
+    "descriptor"
+  ],
+  "trim": [
+    "tool_object",
+    "holdable",
+    "action",
+    "descriptor"
+  ],
+  "trip": [
+    "tool_object",
+    "action",
+    "descriptor"
+  ],
+  "trophy": [
+    "tool_object",
+    "positive",
+    "holdable",
+    "descriptor"
+  ],
+  "trouble": [
+    "action",
+    "descriptor"
+  ],
+  "truck": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "true": [
+    "positive",
+    "descriptor"
+  ],
+  "truly": [
+    "positive",
+    "descriptor"
+  ],
+  "trumpet": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "trust": [
+    "tool_object",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "truth": [
+    "positive",
+    "descriptor"
+  ],
+  "try": [
+    "action",
+    "descriptor"
+  ],
+  "tube": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "tuition": [
+    "descriptor"
+  ],
+  "tumble": [
+    "action",
+    "descriptor"
+  ],
+  "tuna": [
+    "animal",
+    "food_drink"
+  ],
+  "tunnel": [
+    "tool_object",
+    "place",
+    "descriptor"
+  ],
+  "turkey": [
+    "animal",
+    "food_drink",
+    "descriptor"
+  ],
+  "turn": [
+    "action",
+    "descriptor"
+  ],
+  "turtle": [
+    "animal"
+  ],
+  "twelve": [
+    "descriptor"
+  ],
+  "twenty": [
+    "descriptor"
+  ],
+  "twice": [
+    "descriptor"
+  ],
+  "twin": [
+    "person_role",
+    "descriptor"
+  ],
+  "twist": [
+    "action",
+    "descriptor"
+  ],
+  "two": [
+    "descriptor"
+  ],
+  "type": [
+    "action",
+    "descriptor"
+  ],
+  "typical": [
+    "descriptor"
+  ],
+  "ugly": [
+    "descriptor"
+  ],
+  "umbrella": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "unable": [
+    "descriptor"
+  ],
+  "unaware": [
+    "descriptor"
+  ],
+  "uncle": [
+    "person_role",
+    "descriptor"
+  ],
+  "uncover": [
+    "action"
+  ],
+  "under": [
+    "descriptor"
+  ],
+  "undo": [
+    "action",
+    "descriptor"
+  ],
+  "unfair": [
+    "descriptor"
+  ],
+  "unfold": [
+    "action",
+    "descriptor"
+  ],
+  "unhappy": [
+    "descriptor"
+  ],
+  "uniform": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "unique": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "unit": [
+    "tool_object",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "universe": [
+    "space",
+    "place",
+    "positive",
+    "descriptor"
+  ],
+  "unknown": [
+    "descriptor"
+  ],
+  "unlock": [
+    "descriptor"
+  ],
+  "until": [
+    "descriptor"
+  ],
+  "unusual": [
+    "descriptor"
+  ],
+  "unveil": [
+    "action",
+    "descriptor"
+  ],
+  "update": [
+    "tool_object",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "upgrade": [
+    "tool_object",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "uphold": [
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "upon": [
+    "descriptor"
+  ],
+  "upper": [
+    "place",
+    "descriptor"
+  ],
+  "upset": [
+    "descriptor"
+  ],
+  "urban": [
+    "person_role",
+    "place",
+    "descriptor"
+  ],
+  "urge": [
+    "action"
+  ],
+  "usage": [
+    "tool_object",
+    "descriptor"
+  ],
+  "use": [
+    "action",
+    "descriptor"
+  ],
+  "used": [
+    "descriptor"
+  ],
+  "useful": [
+    "positive",
+    "descriptor"
+  ],
+  "useless": [
+    "person_role",
+    "descriptor"
+  ],
+  "usual": [
+    "person_role",
+    "descriptor"
+  ],
+  "utility": [
+    "tool_object",
+    "descriptor"
+  ],
+  "vacant": [
+    "descriptor"
+  ],
+  "vacuum": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "vague": [
+    "descriptor"
+  ],
+  "valid": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "valley": [
+    "place",
+    "descriptor"
+  ],
+  "valve": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "van": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "vanish": [
+    "tool_object",
+    "action",
+    "descriptor"
+  ],
+  "vapor": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "various": [
+    "descriptor"
+  ],
+  "vast": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "vault": [
+    "tool_object",
+    "place",
+    "holdable",
+    "descriptor"
+  ],
+  "vehicle": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "velvet": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "vendor": [
+    "tool_object",
+    "person_role",
+    "descriptor"
+  ],
+  "venture": [
+    "tool_object",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "venue": [
+    "tool_object",
+    "place",
+    "descriptor"
+  ],
+  "verb": [
+    "tool_object",
+    "descriptor"
+  ],
+  "verify": [
+    "action",
+    "descriptor"
+  ],
+  "version": [
+    "tool_object",
+    "descriptor"
+  ],
+  "very": [
+    "descriptor"
+  ],
+  "vessel": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "veteran": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "viable": [
+    "descriptor"
+  ],
+  "vibrant": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "vicious": [
+    "person_role",
+    "descriptor"
+  ],
+  "victory": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "video": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "view": [
+    "action",
+    "descriptor"
+  ],
+  "village": [
+    "person_role",
+    "place",
+    "descriptor"
+  ],
+  "vintage": [
+    "tool_object",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "violin": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "virtual": [
+    "tool_object",
+    "descriptor"
+  ],
+  "virus": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "visa": [
+    "tool_object",
+    "person_role",
+    "holdable",
+    "descriptor"
+  ],
+  "visit": [
+    "person_role",
+    "action",
+    "descriptor"
+  ],
+  "visual": [
+    "person_role",
+    "descriptor"
+  ],
+  "vital": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "vivid": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "vocal": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "voice": [
+    "person_role",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "void": [
+    "tool_object",
+    "space",
+    "descriptor"
+  ],
+  "volcano": [
+    "tool_object",
+    "place",
+    "descriptor"
+  ],
+  "volume": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "vote": [
+    "tool_object",
+    "action",
+    "descriptor"
+  ],
+  "voyage": [
+    "tool_object",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "wage": [
+    "tool_object",
+    "person_role",
+    "descriptor"
+  ],
+  "wagon": [
+    "tool_object",
+    "holdable",
+    "descriptor"
+  ],
+  "wait": [
+    "action",
+    "descriptor"
+  ],
+  "walk": [
+    "action",
+    "descriptor"
+  ],
+  "wall": [
+    "tool_object",
+    "person_role",
+    "place",
+    "holdable",
+    "descriptor"
+  ],
+  "walnut": [
+    "nature_plant",
+    "food_drink",
+    "descriptor"
+  ],
+  "want": [
+    "person_role",
+    "action",
+    "descriptor"
+  ],
+  "warfare": [
+    "tool_object",
+    "person_role",
+    "descriptor"
+  ],
+  "warm": [
+    "weather_element",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "warrior": [
+    "tool_object",
+    "person_role",
+    "descriptor"
+  ],
+  "wash": [
+    "tool_object",
+    "action",
+    "descriptor"
+  ],
+  "wasp": [
+    "tool_object"
+  ],
+  "waste": [
+    "tool_object",
+    "person_role",
+    "action",
+    "descriptor"
+  ],
+  "water": [
+    "tool_object",
+    "weather_element",
+    "food_drink",
+    "descriptor"
+  ],
+  "wave": [
+    "tool_object",
+    "weather_element",
+    "action",
+    "descriptor"
+  ],
+  "way": [
+    "person_role",
+    "place",
+    "positive",
+    "descriptor"
+  ],
+  "wealth": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "weapon": [
+    "tool_object",
+    "person_role",
+    "holdable",
+    "descriptor"
+  ],
+  "wear": [
+    "person_role",
+    "action",
+    "descriptor"
+  ],
+  "weasel": [
+    "animal"
+  ],
+  "weather": [
+    "weather_element",
+    "descriptor"
+  ],
+  "web": [
+    "tool_object",
+    "person_role",
+    "place",
+    "holdable",
+    "descriptor"
+  ],
+  "wedding": [
+    "tool_object",
+    "person_role",
+    "descriptor"
+  ],
+  "weekend": [
+    "descriptor"
+  ],
+  "weird": [
+    "person_role",
+    "descriptor"
+  ],
+  "welcome": [
+    "person_role",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "west": [
+    "weather_element",
+    "person_role",
+    "place",
+    "descriptor"
+  ],
+  "wet": [
+    "weather_element",
+    "person_role",
+    "descriptor"
+  ],
+  "whale": [
+    "animal"
+  ],
+  "what": [
+    "person_role",
+    "descriptor"
+  ],
+  "wheat": [
+    "nature_plant",
+    "person_role",
+    "food_drink",
+    "descriptor"
+  ],
+  "wheel": [
+    "tool_object",
+    "person_role",
+    "holdable",
+    "descriptor"
+  ],
+  "when": [
+    "person_role",
+    "descriptor"
+  ],
+  "where": [
+    "person_role",
+    "place",
+    "descriptor"
+  ],
+  "whip": [
+    "tool_object",
+    "person_role",
+    "holdable",
+    "descriptor"
+  ],
+  "whisper": [
+    "tool_object",
+    "person_role",
+    "descriptor"
+  ],
+  "wide": [
+    "person_role",
+    "place",
+    "positive",
+    "descriptor"
+  ],
+  "width": [
+    "tool_object",
+    "person_role",
+    "descriptor"
+  ],
+  "wife": [
+    "person_role",
+    "descriptor"
+  ],
+  "wild": [
+    "person_role",
+    "descriptor"
+  ],
+  "will": [
+    "person_role",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "win": [
+    "person_role",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "window": [
+    "tool_object",
+    "person_role",
+    "place",
+    "positive",
+    "holdable",
+    "descriptor"
+  ],
+  "wine": [
+    "tool_object",
+    "person_role",
+    "food_drink",
+    "positive",
+    "holdable",
+    "descriptor"
+  ],
+  "wing": [
+    "animal",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "wink": [
+    "person_role",
+    "descriptor"
+  ],
+  "winner": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "winter": [
+    "weather_element",
+    "person_role",
+    "place",
+    "positive",
+    "descriptor"
+  ],
+  "wire": [
+    "tool_object",
+    "person_role",
+    "positive",
+    "holdable",
+    "descriptor"
+  ],
+  "wisdom": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "wise": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "wish": [
+    "person_role",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "witness": [
+    "person_role",
+    "action",
+    "descriptor"
+  ],
+  "wolf": [
+    "animal",
+    "person_role",
+    "descriptor"
+  ],
+  "woman": [
+    "person_role",
+    "descriptor"
+  ],
+  "wonder": [
+    "person_role",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "wood": [
+    "nature_plant",
+    "tool_object",
+    "positive",
+    "holdable",
+    "descriptor"
+  ],
+  "wool": [
+    "tool_object",
+    "positive",
+    "holdable",
+    "descriptor"
+  ],
+  "word": [
+    "tool_object",
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "work": [
+    "tool_object",
+    "person_role",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "world": [
+    "tool_object",
+    "person_role",
+    "place",
+    "positive",
+    "descriptor"
+  ],
+  "worry": [
+    "person_role",
+    "action",
+    "descriptor"
+  ],
+  "worth": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "wrap": [
+    "tool_object",
+    "person_role",
+    "holdable",
+    "action",
+    "descriptor"
+  ],
+  "wreck": [
+    "tool_object",
+    "person_role",
+    "holdable",
+    "action",
+    "descriptor"
+  ],
+  "wrestle": [
+    "tool_object",
+    "person_role",
+    "action",
+    "descriptor"
+  ],
+  "wrist": [
+    "body_part",
+    "person_role",
+    "descriptor"
+  ],
+  "write": [
+    "tool_object",
+    "person_role",
+    "positive",
+    "action",
+    "descriptor"
+  ],
+  "wrong": [
+    "person_role",
+    "descriptor"
+  ],
+  "yard": [
+    "tool_object",
+    "person_role",
+    "place",
+    "descriptor"
+  ],
+  "year": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "yellow": [
+    "person_role",
+    "descriptor"
+  ],
+  "you": [
+    "person_role",
+    "descriptor"
+  ],
+  "young": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "youth": [
+    "person_role",
+    "positive",
+    "descriptor"
+  ],
+  "zebra": [
+    "animal",
+    "person_role",
+    "descriptor"
+  ],
+  "zero": [
+    "person_role",
+    "descriptor"
+  ],
+  "zone": [
+    "tool_object",
+    "person_role",
+    "place",
+    "descriptor"
+  ],
+  "zoo": [
+    "person_role",
+    "place",
+    "descriptor"
+  ]
+}
