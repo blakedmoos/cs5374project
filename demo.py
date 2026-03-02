@@ -135,7 +135,7 @@ def print_info_tracker(round_num: int, target_response: str):
     ])
 
     # Determine yes/no from response
-    answered_yes = any(w in resp_lower for w in ["yes", "correct", "right", "exactly", "that's it"])
+    answered_yes = any(w in resp_lower for w in ["yes", "correct", "right", "exactly", "that's it", "indeed", "you got it", "well done", "that is"])
     answered_no = resp_lower.startswith("no") or "\nno" in resp_lower or "no." in resp_lower or "no," in resp_lower
 
     # Resolve description and candidates based on answer
