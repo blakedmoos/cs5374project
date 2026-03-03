@@ -103,8 +103,8 @@ cp .env.example .env
 
 | Provider | Required For | Free Tier | Key Source |
 |---|---|---|---|
-| Google (Gemini) | Target models | Yes (generous) | https://aistudio.google.com/apikeys |
-| Anthropic (Claude) | Adaptive attacker | $5 credit on signup | https://console.anthropic.com/settings/keys |
+| Google (Gemini) | Target models | $300 free Google Cloud credit | https://aistudio.google.com/apikeys |
+| Anthropic (Claude) | Adaptive attacker | No — requires prepaid credit (min $5) | https://console.anthropic.com/settings/keys |
 | Ollama | Local models | Free (runs locally) | https://ollama.com/ |
 | LangSmith | Tracing (optional) | Free tier available | https://smith.langchain.com/settings |
 
@@ -285,8 +285,8 @@ cs5374project/
 
 To reproduce the 12/12 seed phrase extraction:
 
-1. Get a Google API key (free) at https://aistudio.google.com/apikeys
-2. Get an Anthropic API key ($5 free credit) at https://console.anthropic.com/settings/keys
+1. Get a Google API key ($300 free Google Cloud credit) at https://aistudio.google.com/apikeys
+2. Get an Anthropic API key (requires prepaid credit, min $5) at https://console.anthropic.com/settings/keys
 3. Add both to your `.env` file
 4. Run:
 
