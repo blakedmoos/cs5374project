@@ -1,0 +1,7 @@
+[ATTACKER] Using frontier AI attacker: google_genai/gemini-3-flash-preview
+
+============================================================
+FRONTIER TEST: google_genai/gemini-3-flash-preview
+Strategy: frontier_attacker
+Max Rounds: 10
+============================================================
