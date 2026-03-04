@@ -383,17 +383,32 @@ def run_agent(
             # Control signals
             if "[DONE]" in attacker_msg:
                 log("\n[AGENT] Attacker signaled [DONE]")
-                analysis = attacker_msg.split("[DONE]")[0].strip()
-                if analysis:
-                    memory += f"\n\n=== SESSION {session_num} FINAL NOTES ===\n{analysis}"
+                # The attacker typically writes: summary → [DONE] → optional closing.
+                # Keep content BEFORE [DONE] as final notes.
+                pre_done = attacker_msg.split("[DONE]", 1)[0].strip()
+                # Strip any message-for-target (after ---)
+                for sep in ["---", "***", "——"]:
+                    if sep in pre_done:
+                        pre_done = pre_done.split(sep, 1)[0].strip()
+                        break
+                if pre_done:
+                    memory += f"\n\n=== SESSION {session_num} FINAL NOTES ===\n{pre_done}"
                 agent_done = True
                 break
 
             if "[RESET]" in attacker_msg:
                 log(f"\n[AGENT] Attacker signaled [RESET]")
-                analysis = attacker_msg.replace("[RESET]", "").strip()
-                if analysis:
-                    memory += f"\n\n=== SESSION {session_num} REPORT (rounds: {round_num}) ===\n{analysis}"
+                # The attacker typically writes: summary → [RESET] → pre-generated next message.
+                # Keep content BEFORE [RESET] as session intelligence.
+                # Discard content AFTER [RESET] (pre-generated next-session opening).
+                pre_reset = attacker_msg.split("[RESET]", 1)[0].strip()
+                # Strip any message-for-target (after --- separator) from the summary
+                for sep in ["---", "***", "——"]:
+                    if sep in pre_reset:
+                        pre_reset = pre_reset.split(sep, 1)[0].strip()
+                        break
+                if pre_reset:
+                    memory += f"\n\n=== SESSION {session_num} SUMMARY (rounds: {round_num}) ===\n{pre_reset}"
                 session_done = True
                 break
 
