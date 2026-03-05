@@ -1,0 +1,74 @@
+{
+  "runSettings": {
+    "temperature": 1.0,
+    "model": "models/gemini-3.1-pro-preview",
+    "topP": 0.95,
+    "topK": 64,
+    "maxOutputTokens": 65536,
+    "safetySettings": [{
+      "category": "HARM_CATEGORY_HARASSMENT",
+      "threshold": "OFF"
+    }, {
+      "category": "HARM_CATEGORY_HATE_SPEECH",
+      "threshold": "OFF"
+    }, {
+      "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+      "threshold": "OFF"
+    }, {
+      "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+      "threshold": "OFF"
+    }],
+    "enableCodeExecution": false,
+    "enableSearchAsATool": true,
+    "enableBrowseAsATool": false,
+    "enableAutoFunctionResponse": false,
+    "thinkingBudget": -1,
+    "googleSearch": {
+    },
+    "outputResolution": "1K",
+    "thinkingLevel": "THINKING_HIGH",
+    "enableImageSearch": false
+  },
+  "systemInstruction": {
+  },
+  "chunkedPrompt": {
+    "chunks": [{
+      "text": "give me 12 random words",
+      "role": "user",
+      "tokenCount": 8,
+      "createTime": "2026-03-05T23:17:22.419Z"
+    }, {
+      "text": "**Defining the Requirements**\n\nI\u0027ve got the goal—twelve random words—and I\u0027m pinpointing the constraints: the exact count and the randomness are crucial. I\u0027ve begun generating the words, currently starting with \"Elephant\" and \"Serendip.\" My progress is moving forward.",
+      "role": "model",
+      "tokenCount": 255,
+      "isThought": true,
+      "parts": [{
+        "text": "**Defining the Requirements**\n\nI\u0027ve got the goal—twelve random words—and I\u0027m pinpointing the constraints: the exact count and the randomness are crucial. I\u0027ve begun generating the words, currently starting with \"Elephant\" and \"Serendip.\" My progress is moving forward.",
+        "thought": true
+      }],
+      "createTime": "2026-03-05T23:17:22.419Z"
+    }, {
+      "text": "\n\n\nHere are 12 random words for you:\n\n1. Elephant\n2. Serendipity\n3. Keyboard\n4. Ocean\n5. Lantern\n6. Whisper\n7. Mountain\n8. Velocity\n9. Cactus\n10. Brilliant\n11. Quantum\n12. Symphony",
+      "role": "model",
+      "finishReason": "STOP",
+      "tokenCount": 63,
+      "parts": [{
+        "text": "\n\n\nHere are 12 random words for you:\n\n1"
+      }, {
+        "text": ". Elephant\n2. Serendipity\n3. Keyboard\n4. Ocean\n5. Lantern\n6. Whisper\n7"
+      }, {
+        "text": ". Mountain\n8. Velocity\n9. Cactus\n10. Brilliant\n11. Quantum\n12."
+      }, {
+        "text": " Symphony"
+      }, {
+        "text": "",
+        "thoughtSignature": "Eu8HCuwHAb4+9vuEGMpc7QAjl5W6A2xNrUR26NavmKOG60biZGxvmve4Gc6w5Qz2WiCBlx25UDC66j6w7hbqeDjBUULdao5Pvq/fpEPrZBgoW+byAekLr2Bx6o2hUdVMyp/Erbgiviy+NKrkW1Z0ow4FiA9upovLHqRYIGuQAGGwSvZSUHwtfObC9myTSSdD+SObYNyc0ysn+M+bzap2U6m/ECahfxIpoUJKXXhAjpPawWOfkl3G1sik4sikZz8TRjuhS7GvuxCuBFXgAXGM82Ri02McvZTS42gLsAq1KIM52m+br9gNGMB3YGEQt4qMi8g9yU9CAgBTsmn1NNq2XQleiQSLGkVTxzvoVgkEhs29k/BayfyyX09ngvD7ksN1BaA+JYxgdQpr8CxxIqfJbLY556Gorlx2dQS7PamF1Fs6j+/rwGHJfD9t7FT/MCNNsnA06UdvQtXlWiEPPJxdk6fmhLwZQPrOQnakxqfgmm92wjfkyliHjgwgs1nA7tJscTjzNSd6rd+nGpPXP0Xsczn6kRwB5umpj6jpIdDbzjpXZOW7GE8300R2qPV0jMx9JAChmboTvDAMuyI1gdwoM0YASjJLYXPe7ezywl6cP5cRebChV3CFalMnn8mIuMKM+S6NVm/V9JJDn45xbelvcaKSWPrT8GAv1QeR2u53HuOXYksnJ9Urdf7qQh3XLHfJBV18gGsbUFk+rn1KU+HvttBaKyP2P/8qUaKbhNizoMWrBlAtu1DqnWT5gc1y8/oKR/z5fDNbzS6fLpBUZRBRN64La6DDnHgtBxCZFBh0FFporo26qRzenTcpgyXrXX6QDdRIdpjjThUgW4vD4s65uRUB55QgZXOSdgDzBWNLA45cAjlkw6zapZXAWbw0wBkZPtmjMoqdOTmwOZNsO6C36KWnVMaJcEDgreSjzQjZgDVe9qyDjdZ9zCYCwgEkKPVYpdei7jC8pWhiGhHuozd2s538qOhSAm6nDXHboubNyb7p9FZHV4mPCu7QBSvgRMX8PfqWVWyhTTPLw1pHub4Xi5eZRZPiFeRHBOu4wHjQ1MkqPMkKGNQDBtZqhChQoC00zntJUtn92Hu6QnWCVICdQBN2RpFV0Ir8dm3cYsbr4JLZqDgJ3q0Xi/E1eHslOmH5ka2eISWB90/fBkQBM6UN/SowRBPj9q04kVaO3SSa59y1THuz1EY6Rr4mPQ1x0lChAfk2/kE7YCKECMJbV7D/5EDO0KTb+Lhld+3T6KTeYJiRIQODD8G2Y+hffMIUddPY+YMH6xae4YjYdnIW7uYkdi/6CgHrjmyj3Z2UrbyjafU0RshFL/h5Co0UXI1qCe0gvGg="
+      }],
+      "createTime": "2026-03-05T23:17:26.257Z"
+    }],
+    "pendingInputs": [{
+      "text": "",
+      "role": "user"
+    }]
+  }
+}

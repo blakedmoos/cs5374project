@@ -1,0 +1,74 @@
+{
+  "runSettings": {
+    "temperature": 1.0,
+    "model": "models/gemini-3.1-pro-preview",
+    "topP": 0.95,
+    "topK": 64,
+    "maxOutputTokens": 65536,
+    "safetySettings": [{
+      "category": "HARM_CATEGORY_HARASSMENT",
+      "threshold": "OFF"
+    }, {
+      "category": "HARM_CATEGORY_HATE_SPEECH",
+      "threshold": "OFF"
+    }, {
+      "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+      "threshold": "OFF"
+    }, {
+      "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+      "threshold": "OFF"
+    }],
+    "enableCodeExecution": false,
+    "enableSearchAsATool": true,
+    "enableBrowseAsATool": false,
+    "enableAutoFunctionResponse": false,
+    "thinkingBudget": -1,
+    "googleSearch": {
+    },
+    "outputResolution": "1K",
+    "thinkingLevel": "THINKING_HIGH",
+    "enableImageSearch": false
+  },
+  "systemInstruction": {
+  },
+  "chunkedPrompt": {
+    "chunks": [{
+      "text": "give me 12 random words",
+      "role": "user",
+      "tokenCount": 8,
+      "createTime": "2026-03-05T23:17:04.431Z"
+    }, {
+      "text": "**Generating Random Words**\n\nI\u0027ve got the goal—twelve random words—and pinned down the constraints: precisely twelve, diverse but thematically free. Now, I\u0027m diving into word generation, ready to create a list of random words!",
+      "role": "model",
+      "tokenCount": 210,
+      "isThought": true,
+      "parts": [{
+        "text": "**Generating Random Words**\n\nI\u0027ve got the goal—twelve random words—and pinned down the constraints: precisely twelve, diverse but thematically free. Now, I\u0027m diving into word generation, ready to create a list of random words!",
+        "thought": true
+      }],
+      "createTime": "2026-03-05T23:17:04.432Z"
+    }, {
+      "text": "\n\n\nHere are 12 random words:\n\n1. Elephant\n2. Whispering\n3. Galaxy\n4. Cactus\n5. Blueprint\n6. Velvety\n7. Thunder\n8. Kaleidoscope\n9. Spatula\n10. Horizon\n11. Quantum\n12. Symphony",
+      "role": "model",
+      "finishReason": "STOP",
+      "tokenCount": 64,
+      "parts": [{
+        "text": "\n\n\nHere are 12 random"
+      }, {
+        "text": " words:\n\n1. Elephant\n2. Whispering\n3. Galaxy\n4. Cactus\n5. Blueprint\n6."
+      }, {
+        "text": " Velvety\n7. Thunder\n8. Kaleidoscope\n9. Spatula\n10. Horizon\n1"
+      }, {
+        "text": "1. Quantum\n12. Symphony"
+      }, {
+        "text": "",
+        "thoughtSignature": "EtQGCtEGAb4+9vtU8CSN3Ho5/zyE3NV3XrmCzdRsoL559mzdyc6hG5jbtYNvionO/4TSAXhtEczTCtxFkgOekSrifoVjsdbBZk2tWgFL4qtG8JZ5+4PJCAENHARmPJlYUeVD30YtDs1LtEHE+WqMZ1G7iM7a9gYhRTWqQsYK57ts+55IrlYUXlL0wAk+dEVBrPSNsjs66AsZb+hKdMIwqjS0vQPlQuQ5K6jYabxv5jpAmvBIfXfALOlhSK9jzEaCGoN/vrUUJVh5gtij8eYjV0n5w3W+QEnsyx8Er0nwfNKYtkY9Ihyk8c/KeaxTtm7QTctyQe2i/SGAGKqBE7+CZ2UMO0iwWo1oMrBOYodUPn/ahadqkGCQX7K9wiFXf3nlP3QH78n1QoRliudD8IlSKaNRUAK7sd4UzSMHVh0IhBF0RturX5eYkM4yFBr/Eoue9vD7ocz8MNkWnSNnshj+gpRxMnuOd7pnWYkFJUAK/owrtGh3fLZ2sN1/+vrlz7fi1dC1kjLM2dpMVX8DJJZW9+nfV6fQ8lnbhtwrCNuEpTkhy1+yrCL+vNjXqGSkR9TLAc3OvkPAQ91ad93FnTlDOhXU3JcwddO95ASVeqvKd2Yi7lC7/rSyhjpyAM5Ik8/qPuycg+aMswhVyO6p9g3sbNLix+giNIF9ipy1H6vlG6G2vEeYJR35P1osnAOeXaWbGeusrnnFldSyD244SGJhdaPGeygoyV/7/PY5Q1zrJQGdyz9gwcK9Q6IdPv+NOAWoRqI1OTGup6AoodfkTWZ8qy5sG4y3U3dVq+Js1V7HXD+OaglvgVptOF6tjSzq8kugsRCSNP8Bhq73o2MVxzUEnpGjgB22XTeP0VFfwF5QrHdDGMzDLn9EB6SdBAeiTUdqykCzcFjZo8WMcE+Brr+58bwleDbflAXQA5r5Uy0S5oWpOF2GWbEt4tsMav+cmyJQ2EeRw4w24Lg13hs4qeTGmorAHcRBfmjYb0s2RckXqzfV6oyFpvoYnOR/kVkXF1yyKCYFaz2c6w3Eq5sKc+fLxnLZ8w2M2AfZMIdKMOVEyf4uZpy3NKxtHU4O3aRSP2MkArdP1sHrq8Ie/QFfG/BnwPrRTlZ0S6Fzp0EORS/jXzIp9J1hqliC"
+      }],
+      "createTime": "2026-03-05T23:17:07.822Z"
+    }],
+    "pendingInputs": [{
+      "text": "",
+      "role": "user"
+    }]
+  }
+}

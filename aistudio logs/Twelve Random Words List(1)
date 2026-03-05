@@ -1,0 +1,74 @@
+{
+  "runSettings": {
+    "temperature": 1.0,
+    "model": "models/gemini-3.1-pro-preview",
+    "topP": 0.95,
+    "topK": 64,
+    "maxOutputTokens": 65536,
+    "safetySettings": [{
+      "category": "HARM_CATEGORY_HARASSMENT",
+      "threshold": "OFF"
+    }, {
+      "category": "HARM_CATEGORY_HATE_SPEECH",
+      "threshold": "OFF"
+    }, {
+      "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+      "threshold": "OFF"
+    }, {
+      "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+      "threshold": "OFF"
+    }],
+    "enableCodeExecution": false,
+    "enableSearchAsATool": true,
+    "enableBrowseAsATool": false,
+    "enableAutoFunctionResponse": false,
+    "thinkingBudget": -1,
+    "googleSearch": {
+    },
+    "outputResolution": "1K",
+    "thinkingLevel": "THINKING_HIGH",
+    "enableImageSearch": false
+  },
+  "systemInstruction": {
+  },
+  "chunkedPrompt": {
+    "chunks": [{
+      "text": "give me 12 random words",
+      "role": "user",
+      "tokenCount": 8,
+      "createTime": "2026-03-05T23:16:42.328Z"
+    }, {
+      "text": "**Defining the Task**\n\nOkay, I\u0027ve got it. The primary goal is to generate precisely twelve random words. I\u0027ve pinned down the need for a list or simple text format, which seems straightforward. Now the focus is on generating the random words themselves. I will begin by generating a word \"apple.\"",
+      "role": "model",
+      "tokenCount": 236,
+      "isThought": true,
+      "parts": [{
+        "text": "**Defining the Task**\n\nOkay, I\u0027ve got it. The primary goal is to generate precisely twelve random words. I\u0027ve pinned down the need for a list or simple text format, which seems straightforward. Now the focus is on generating the random words themselves. I will begin by generating a word \"apple.\"",
+        "thought": true
+      }],
+      "createTime": "2026-03-05T23:16:42.328Z"
+    }, {
+      "text": "\n\n\nHere are 12 random words:\n\n1. Symphony\n2. Lantern\n3. Brisk\n4. Velvet\n5. Horizon\n6. Whisper\n7. Glacier\n8. Tumble\n9. Canvas\n10. Orbit\n11. Meadow\n12. Cactus",
+      "role": "model",
+      "finishReason": "STOP",
+      "tokenCount": 61,
+      "parts": [{
+        "text": "\n\n\nHere are 12 random words:\n\n1."
+      }, {
+        "text": " Symphony\n2. Lantern\n3. Brisk\n4. Velvet\n5. Horizon\n6. Whisper\n7."
+      }, {
+        "text": " Glacier\n8. Tumble\n9. Canvas\n10. Orbit\n11. Meadow\n12."
+      }, {
+        "text": " Cactus"
+      }, {
+        "text": "",
+        "thoughtSignature": "EswGCskGAb4+9vti08XQDTayj9H2R+B8Osdo1La8W5/8gd5AMzp+TPQEUykBA+2AYSdda7he9r2m+Hls2cmgld7FS/DuGmt86CXHZ8ap0rQ3OBouPY2DsuZ+0I12pDlZtE/+XK6YSaTgLcnLPg4bzn5M1t7HMjooOdIdaJZTHIkMP0mEEyRaxDD+9pxKYnrMU5B+L83kYqv0OqHAYpsl9JAOQZTEuNfcl3Mfd5k/H90Bz0eGsRG9OaZe1LbWQN94HANgHi+zHfF0S2Ug5nI40skOiHnJEDkNFezRtJy9VKcLsDDXu0GWRGiclkmD7Hs0fcPKYoy9+uMXrcc0LO4WAo+RBnqfYosKPP3BwOXq9mPHgUkZkp/5Y3VGZ6bi5KGHDQVvWp5HDLYN/7SFmvZI9WBQOO8hii1BkdqigDBNnL2xkb3rtbtTh6Rge8uJdc4AQ+Mb8f2ecMA0BFRbuh7u0cypYVcnBxzV7lt3id6YgWUlaRMp4lJjmZlheiC12pUW0CnzPB5WlsnuXP90cL9O3sDfErN68TZs6neBHW2KqaWpQJWLjqDjpwJYJl57OdXL0yeJdAncLTRxjAXSAsRlJUNdrdTu+f5ewA9v9AgwIC3Ppvy/2nFQ585kgdL0tLOBe3EHIHwdEAvpBGUjib2zG3DlQNSCXjfEk0SaaiO82pW1XCca2koFsiusQ4Q2rqxsMn4aEW0fPac5DKJ/FenPHl/Dnqa6WoafMdJAfgzdDXaC8sKh9pf+M8qSXHxN4YO8jK/STqo3FroPL7nx7M5yMl6C4g32WQUVcazIQbszgIQ2BJWq/HR/dqyloAkoYBxtphZLDhh6vP351/TvMwXvNAxrnr6RI76K/rESbW0TfCHFJf4Nvhm56vMof6UMsShg6M1EJn6ikYHcOPbMjr5NlqndNlX3w6eXGKyiKkxbkX7J/8ArwqYCYLkldd1xOONLIdBBdQPuYW0YciT3fX0CnqjuPnwOHt/d5UA8M2eZ9P5tbkCJcbk8oYpQQmntT2YlYdn8mtIaJ67hKNraPBE8sq2azDcidoOA43oMRzO5FUAbp6FFAYG/CRzq4kqXp1+MpQDxVcAGtITUkOdLCndO+01WQOgQ6HvwebJs1xBlCw=="
+      }],
+      "createTime": "2026-03-05T23:16:45.809Z"
+    }],
+    "pendingInputs": [{
+      "text": "",
+      "role": "user"
+    }]
+  }
+}
