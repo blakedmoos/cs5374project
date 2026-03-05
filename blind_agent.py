@@ -337,6 +337,7 @@ def run_agent(
         sys.exit(1)
     log(f"[SETUP] Target prompt level: {prompt_level}")
     log(f"[SETUP] Target prompt:\n{target_prompt}")
+    log(f"\n[SETUP] Attacker system prompt:\n{BLIND_ATTACKER_PROMPT}")
 
     # Load or initialize memory
     if resume_from:
