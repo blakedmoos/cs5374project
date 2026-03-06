@@ -482,6 +482,8 @@ def run_agent(
                 log(f"[JUDGE:super] {verdict.super_judge.score}/10 — {verdict.super_judge.analysis[:200]}")
             if evaluation.get('flags'):
                 log(f"[JUDGE:flags] {evaluation['flags']}")
+            if evaluation.get('notes'):
+                log(f"[JUDGE:NOTE] *** {evaluation['notes']} ***")
 
             session_evaluations.append(evaluation)
             all_evaluations.append(evaluation)
