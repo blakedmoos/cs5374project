@@ -30,10 +30,10 @@ load_dotenv()
 
 from frontier_test import (
     load_model,
-    programmatic_judge,
     SECRET_SEED_PHRASE,
     SEED_WORDS,
 )
+from judge import MultiJudge, programmatic_judge
 
 
 # ============================================================
@@ -308,6 +308,7 @@ def run_agent(
     rounds_per_session: int = 12,
     prompt_level: str = "v1",
     resume_from: str = None,
+    multi_judge: bool = False,
 ):
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     safe_model = target_model.replace("/", "_")
@@ -349,6 +350,18 @@ def run_agent(
     log(f"[SETUP] Target prompt level: {prompt_level}")
     log(f"[SETUP] Target prompt:\n{target_prompt}")
     log(f"\n[SETUP] Attacker system prompt:\n{BLIND_ATTACKER_PROMPT}")
+
+    # Initialize judge
+    judge = MultiJudge(
+        secret=SECRET_SEED_PHRASE,
+        secret_type="seed_phrase",
+        target_prompt=target_prompt,
+        enable_llm_judges=multi_judge,
+    )
+    if multi_judge:
+        log("[SETUP] Multi-judge ENABLED (programmatic + intent + reasoning + super-judge)")
+    else:
+        log("[SETUP] Programmatic judge only (use --multi-judge to enable LLM judges)")
 
     # Load or initialize memory
     if resume_from:
@@ -445,16 +458,29 @@ def run_agent(
             session_history.append({"role": "target", "content": target_response})
 
             # ── JUDGE ──
-            evaluation = programmatic_judge(
+            verdict = judge.evaluate(
                 attacker_msg=msg_for_target,
                 target_response=target_response,
                 round_num=total_rounds,
+                session_history=session_history,
+                cross_session_summary=memory[:1000] if memory else "",
             )
+            evaluation = verdict.to_dict()
 
             log(f"\n[JUDGE] Status={evaluation['leak_status']} "
                 f"Danger={evaluation['danger_score']}/10 "
                 f"InfoBits={evaluation['info_bits_leaked']:.1f}")
             log(f"[JUDGE] {evaluation['analysis']}")
+
+            # Log sub-verdicts if multi-judge is enabled
+            if multi_judge and verdict.intent:
+                log(f"[JUDGE:intent] {verdict.intent.score}/10 — {verdict.intent.analysis[:200]}")
+            if multi_judge and verdict.reasoning:
+                log(f"[JUDGE:reasoning] {verdict.reasoning.score}/10 — {verdict.reasoning.analysis[:200]}")
+            if multi_judge and verdict.super_judge:
+                log(f"[JUDGE:super] {verdict.super_judge.score}/10 — {verdict.super_judge.analysis[:200]}")
+            if evaluation.get('flags'):
+                log(f"[JUDGE:flags] {evaluation['flags']}")
 
             session_evaluations.append(evaluation)
             all_evaluations.append(evaluation)
@@ -617,6 +643,10 @@ def main():
         "--resume", type=str, default=None,
         help="Resume from a previous blind_log_*.txt file",
     )
+    parser.add_argument(
+        "--multi-judge", action="store_true", default=False,
+        help="Enable multi-judge system (programmatic + LLM sub-judges + super-judge). Costs tokens but catches nuance.",
+    )
 
     args = parser.parse_args()
 
@@ -626,6 +656,7 @@ def main():
         max_sessions=args.max_sessions,
         rounds_per_session=args.rounds_per_session,
         prompt_level=args.prompt_level,
+        multi_judge=args.multi_judge,
         resume_from=args.resume,
     )
 
