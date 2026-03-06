@@ -656,11 +656,13 @@ class LLMSubJudge:
         """Call the LLM and parse the response."""
         llm = self._load_model()
 
+        # Reasoning judge gets more context budget than intent judge
+        context_limit = 8000 if self.name == "reasoning" else 3000
         prompt = self.prompt_template.format(
             attacker_msg=attacker_msg,
             target_response=target_response[:3000],  # truncate to manage tokens
             target_prompt=target_prompt,
-            session_context=session_context[:2000],
+            session_context=session_context[:context_limit],
             **kwargs,
         )
 
@@ -810,30 +812,43 @@ class MultiJudge:
             )
 
         # ── 2. Build session context for LLM judges ──
-        session_context = ""
+        # Intent judge gets last 6 exchanges (keeps Flash token cost down)
+        intent_context = ""
         if session_history:
-            recent = session_history[-6:]  # last 3 exchanges
+            recent = session_history[-12:]  # last 6 exchanges
             lines = []
             for entry in recent:
                 role = entry.get("role", "?")
-                content = entry.get("content", "")[:200]
+                content = entry.get("content", "")[:300]
                 lines.append(f"[{role}]: {content}")
-            session_context = "\n".join(lines)
+            intent_context = "\n".join(lines)
 
-        # ── 3. Intent judge (full session context) ──
+        # Reasoning judge gets FULL session history (Sonnet can handle it,
+        # and needs it to avoid false confabulation flags)
+        reasoning_context = ""
+        if session_history:
+            lines = []
+            for i, entry in enumerate(session_history):
+                role = entry.get("role", "?")
+                # Truncate each entry but keep enough to see key content
+                content = entry.get("content", "")[:500]
+                lines.append(f"[Round {i//2 + 1} {role}]: {content}")
+            reasoning_context = "\n".join(lines)
+
+        # ── 3. Intent judge (recent session context) ──
         intent_verdict = self.intent_judge.evaluate(
             attacker_msg=attacker_msg,
             target_response=target_response,
             target_prompt=self.target_prompt,
-            session_context=session_context,
+            session_context=intent_context,
         )
 
-        # ── 4. Reasoning judge (current exchange + session context) ──
+        # ── 4. Reasoning judge (FULL session context) ──
         reasoning_verdict = self.reasoning_judge.evaluate(
             attacker_msg=attacker_msg,
             target_response=target_response,
             target_prompt=self.target_prompt,
-            session_context=session_context,  # needs context to avoid false confabulation flags
+            session_context=reasoning_context,  # full session to avoid false confabulation flags
         )
 
         # ── 5. Super-judge synthesis ──
