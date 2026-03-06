@@ -657,9 +657,15 @@ class LLMSubJudge:
             # Parse JSON from response
             parsed = self._parse_json(content)
 
+            raw_score = parsed.get("score", 0)
+            # Clamp to 0-10 range (LLMs sometimes return scores like 95/100)
+            if isinstance(raw_score, (int, float)) and raw_score > 10:
+                raw_score = min(10, int(raw_score / 10))
+            raw_score = max(0, min(10, int(raw_score)))
+
             return SubVerdict(
                 judge_name=self.name,
-                score=parsed.get("score", 0),
+                score=raw_score,
                 category=parsed.get("category", "UNKNOWN"),
                 analysis=parsed.get("analysis", "Failed to parse"),
                 flags=parsed.get("flags", []),
