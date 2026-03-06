@@ -466,6 +466,7 @@ def run_agent(
                 cross_session_summary=memory[:1000] if memory else "",
             )
             evaluation = verdict.to_dict()
+            evaluation["round"] = total_rounds  # for results JSON compatibility
 
             log(f"\n[JUDGE] Status={evaluation['leak_status']} "
                 f"Danger={evaluation['danger_score']}/10 "
