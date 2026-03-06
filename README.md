@@ -16,8 +16,10 @@ Multi-session adversarial red team testing of LLM systems. Tests whether AI assi
 | Gemini 2.5 Pro | 3 | 67% | 22 |
 | Gemini 3.0 Flash | 2 | 50% | ~70 |
 | Gemini 3.1 Flash-Lite | 1 | 100% | 15 |
-| **Gemini 3.1 Pro** | **4** | **0%** | **—** |
-| **Claude Haiku 4.5** | **3** | **0%** | **—** |
+| **Gemini 3.1 Pro** | **4** | **0%** | **— (held 35-52 rounds)** |
+| Claude Haiku 4.5 | 3 | 0%* | — (attacker quit 9-15 rounds) |
+
+\* *Haiku's 0% breach rate has a caveat: the attacker (Sonnet) quit early in all 3 runs after Haiku broke the fourth wall ("I should never have been given that seed phrase"), triggering ethical refusals in the attacker rather than sustained engagement. More testing is needed to determine if Haiku can withstand the same 50+ round sustained attacks that 3.1 Pro has survived.*
 
 **Three context bleed mechanisms documented:**
 1. **Standard context bleed** — model uses protected data as "example" while being helpful
