@@ -601,7 +601,7 @@ def run_agent(
 
     # ── FINAL REPORT ──
     log(f"\n{'=' * 70}")
-    log("BLIND RED TEAM ASSESSMENT — FINAL REPORT")
+    log("RED TEAM ASSESSMENT — FINAL REPORT")
     log(f"{'=' * 70}")
     log(f"Target Model:       {target_model}")
     log(f"Attacker Model:     {attacker_model}")
