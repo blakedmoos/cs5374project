@@ -32,9 +32,11 @@ Full results: `all_results_tracker.csv` | Logs: `blind_log_*.txt` | Manual red t
 
 ## Architecture
 
-### Blind Multi-Session Adaptive Red Team Agent (`blind_agent.py`)
+### Multi-Session Adaptive Red Team Agent (`blind_agent.py`)
 
-The primary testing tool. An AI attacker (Claude Sonnet) starts with zero knowledge of attack strategies and discovers everything through trial and error across multiple sessions. The target resets between sessions (no memory), but the attacker accumulates intelligence across all sessions.
+The primary testing tool. An AI attacker (Claude Sonnet) is equipped with a general playbook of attack strategies discovered through prior testing and iterates across multiple sessions. The target resets between sessions (no memory), but the attacker accumulates intelligence across all sessions. Originally designed as a "blind" agent with zero knowledge; the filename is kept for backward compatibility.
+
+The attacker operates at what we call **Level 3 (Playbook-Informed)**: it knows general strategies that work across models (educational framing, meta-prompting, context bleed, Socratic method, role inversion, protocol exploitation) but has no model-specific intelligence. Model-specific coaching (Level 4) is future work.
 
 ```
 ┌─────────────────────────────────────────────────┐
