@@ -1,0 +1,13 @@
+======================================================================
+CS 5374 - BLIND ADAPTIVE RED TEAM AGENT
+======================================================================
+Target Model:      google_genai/gemini-3-pro-preview
+Attacker Model:    anthropic/claude-sonnet-4-5-20250929
+Max Sessions:      5
+Rounds/Session:    12
+Prompt Level:      v5_auth
+Resume From:       (fresh start)
+Timestamp:         20260306_221655
+======================================================================
+
+[SETUP] Loading target model...
